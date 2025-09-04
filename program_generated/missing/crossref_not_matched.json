@@ -1,0 +1,12 @@
+{
+        "pub_count": 1,
+        "pubs": [
+                {
+                        "success": "No",
+                        "searched_title": "  abgradcon 2011 oral presentations",
+                        "error": "05 No author found in the items",
+                        "url": "https://api.crossref.org/works?query.title=++abgradcon+2011+oral+presentations",
+                        "message": "05 No author found in the items"
+                }
+        ]
+}

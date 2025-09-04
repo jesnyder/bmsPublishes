@@ -1,0 +1,8 @@
+flake8
+matplotlib
+numpy
+pandas
+scipy
+shutil
+sklearn
+sympy

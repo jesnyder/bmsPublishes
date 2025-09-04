@@ -1,0 +1,8 @@
+Tasks
+
+Setup workspace:
+Establish a file directory. Initialize a git repo planning to store source data (.csv file type), to be analyzed computationally (python) and saved as an accessible and complete dataset (.json file type). The data will be shown through an interactive website served on github pages. The dataset (.json file type) will be accessed by the website (a .js file declares the .json dataset as a unique variable) and created as a static site using .html, .css, and .js.
+Push to github.
+Setup gitpages.
+
+Prepare the dataset:

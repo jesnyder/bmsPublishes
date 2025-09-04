@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>RoosterAppreciates</title>
+
+  <link rel="stylesheet" href="styles.css">
+
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.8.0/dist/leaflet.css" integrity="sha512-hoalWLoI8r4UszCkZ5kL8vayOGVae1oxXe/2A4AO6J9+580uKHDO3JdHb7NzwwzK5xr/Fs0W40kiNHxM9vyTtQ==" crossorigin=""/>
+  <script src="https://unpkg.com/leaflet@1.8.0/dist/leaflet.js" integrity="sha512-BB3hKbKWOc9Ez/TAwyWxNXeoV9c1v6FIeYiBieIWkpLjauysF18NzgR1MBNBXf8/KABdlkX68nAhlwcDFLGPCQ==" crossorigin=""></script>
+
+  <link href="https://unpkg.com/tabulator-tables@4.8.1/dist/css/tabulator.min.css" rel="stylesheet">
+  <script type="text/javascript" src="https://unpkg.com/tabulator-tables@4.8.1/dist/js/tabulator.min.js"></script>
+  <script type="text/javascript" src="https://oss.sheetjs.com/sheetjs/xlsx.full.min.js"></script>
+
+
+  <script src="js/geojson/group_2022.js"></script>
+  <script src="js/geojson/group_2022_adipose.js"></script>
+  <script src="js/geojson/group_2022_bone.js"></script>
+  <script src="js/geojson/group_2022_cells.js"></script>
+  <script src="js/geojson/group_2022_evboost.js"></script>
+  <script src="js/geojson/group_2022_exosome.js"></script>
+  <script src="js/geojson/group_2022_media.js"></script>
+  <script src="js/geojson/group_2022_umbilical_cord.js"></script>
+  <script src="js/geojson/group_all.js"></script>
+  <script src="js/geojson/group_all_adipose.js"></script>
+  <script src="js/geojson/group_all_bone.js"></script>
+  <script src="js/geojson/group_all_cells.js"></script>
+  <script src="js/geojson/group_all_evboost.js"></script>
+  <script src="js/geojson/group_all_exosome.js"></script>
+  <script src="js/geojson/group_all_media.js"></script>
+  <script src="js/geojson/group_all_umbilical_cord.js"></script>
+  <script src="js/geojson/group_recent.js"></script>
+  <script src="js/geojson/group_recent_adipose.js"></script>
+  <script src="js/geojson/group_recent_bone.js"></script>
+  <script src="js/geojson/group_recent_cells.js"></script>
+  <script src="js/geojson/group_recent_evboost.js"></script>
+  <script src="js/geojson/group_recent_exosome.js"></script>
+  <script src="js/geojson/group_recent_media.js"></script>
+  <script src="js/geojson/group_recent_umbilical_cord.js"></script>
+  <script src="js/geojson/group_RoosterBio_2022_080.js"></script>
+  <script src="js/geojson/group_RoosterBio_2022_080_adipose.js"></script>
+  <script src="js/geojson/group_RoosterBio_2022_080_bone.js"></script>
+  <script src="js/geojson/group_RoosterBio_2022_080_cells.js"></script>
+  <script src="js/geojson/group_RoosterBio_2022_080_evboost.js"></script>
+  <script src="js/geojson/group_RoosterBio_2022_080_exosome.js"></script>
+  <script src="js/geojson/group_RoosterBio_2022_080_media.js"></script>
+  <script src="js/geojson/group_RoosterBio_2022_080_umbilical_cord.js"></script>
+
+  <script src="js/geojson/pubs.js"></script>
+  <script src="js/tableData/2022_table.js"></script>
+  <script src="js/tableData/all_table.js"></script>
+  <script src="js/tableData/recent_table.js"></script>
+
+
+</head>
+
+<div class="container RoosterPurple topBotomBordersOut" height="10" style="margin-left: 3%; width:100%; max-width:964px; font-size:18px;font-family: Raleway">
+  <font color="white"; font-size=18px>PUBLICATION FROM</font>
+  <a href="index.html">2022</a>
+  <a href="recent.html">2021-2022</a>
+  <a href="all.html">2014-2022</a>
+</div>
+<br><br><br>
+
+<body>
+
+<script src="js/map.js"></script>
+<script src="js/buildTable.js"></script>
+
+<div id="map" style="margin-left: 3%; width:94% ; max-width:1000px;"></div>
+
+
+
+<div style="background-color:white; width:94% ; margin-left: 3%;  max-width:1000px; font-family: Calibri;">
+<br>
+<h1>2014-2022 Publications citing RoosterBio cells, media, or expertise. Meet our community.</h1>
+<p>On the map, each publication is geolocated based on author affiliation. Publications with more citations have larger markers. Each publication is randomly assigned a color. Some publication have authors from various affiliations and therefore have multiple markers. Click on the marker for metadata. Zoom with the +/- in the upper left corner (or your mouse wheel) to explore parts of the map. Click on the icon in the upper right corner for a drop down menu of layers by subject group. Click once to add the layer. Click again to remove from the map. </p>
+<h1>Table of the 388 Publications from 544 Unique Affiliations Captured on the Map:
+<button id="download-csv">Download CSV</button>
+<button id="download-xlsx">Download XLSX</button></h1>
+<p>Double click on the column name to sort the table. For example, double click on the word "exosome" in the upper left corner of the table to sort publications relevant to "exosome" or "extracellular vesicle" research. </p>
+<br>
+</div>
+
+<div id="tableRoosterBio_table" style="background-color:white; width:94% ; margin-left: 3%;  max-width:1000px; font-family: Calibri;"></div>
+</div>
+
+<script src="js/setVarAll.js"></script>
+
+<div style="background-color:white; width:94% ; margin-left: 3%;  max-width:1000px; font-family: Calibri;">
+<br><br>
+Github Repo: <a href="https://github.com/jesnyder/roosterAppreciates">https://github.com/jesnyder/roosterAppreciates</a>
+<br><br><br>
+</div>
+
+</body>
+</html>

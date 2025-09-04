@@ -1,0 +1,1006 @@
+{
+        "aff_count": 199,
+        "affs": [
+
+                {
+                        "name": "University of Colordo",
+                        "name_original": "University of Colordo",
+                        "name_simple": "University of Colordo Boulder, CO 80309"
+                },
+                {
+                        "name": "Earth-Life Science Institute, \rTokyo Institute of Technology, 2-12-1-IE-1 Ookayama, Meguro-ku, Tokyo 152-8550, Japan.",
+                        "name_original": "Earth-Life Science Institute, \rTokyo Institute of Technology, 2-12-1-IE-1 Ookayama, Meguro-ku, Tokyo 152-8550, Japan.",
+                        "name_simple": "Earth Life Science Institute  Tokyo Institute of Technology  Tokyo Japan "
+                },
+                {
+                        "name": "Blue Marble Space Institute of Science, 600 1st Ave, Floor 1, Seattle, WA 98104, USA.",
+                        "name_original": "Blue Marble Space Institute of Science, 600 1st Ave, Floor 1, Seattle, WA 98104, USA.",
+                        "name_simple": "Blue Marble Space Institute of Science  600 1st Ave  Seattle  WA 98104  USA "
+                },
+                {
+                        "name": "Research and Information System for Developing Countries (RIS), Core IV-B, Fourth Floor, India Habitat Centre, Lodhi Road, New Delhi 110 003, India.",
+                        "name_original": "Research and Information System for Developing Countries (RIS), Core IV-B, Fourth Floor, India Habitat Centre, Lodhi Road, New Delhi 110 003, India.",
+                        "name_simple": "Research and Information System for Developing Countries  RIS  Core IV B   India Habitat Centre  Lodhi Road  New Delhi India "
+                },
+                {
+                        "name": "Department of Physical and Natural Sciences, \rSchool of Liberal Education, FLAME University, Lavale, Pune 412115, Maharashtra, India.",
+                        "name_original": "Department of Physical and Natural Sciences, \rSchool of Liberal Education, FLAME University, Lavale, Pune 412115, Maharashtra, India.",
+                        "name_simple": "Department of Physical and Natural Sciences  \rSchool of Liberal Education  FLAME University  Lavale  Pune 412115  Maharashtra  India "
+                },
+                {
+                        "name": "School of Physical Sciences and Nanotechnology, Yachay Tech University, 100119 Urcuqui, Ecuador.",
+                        "name_original": "School of Physical Sciences and Nanotechnology, Yachay Tech University, 100119 Urcuqui, Ecuador.",
+                        "name_simple": "School of Physical Sciences and Nanotechnology  Yachay Tech University  100119 Urcuqui  Ecuador "
+                },
+                {
+                        "name": "Earth-Life Science Institute Tokyo Institute of Technology  Meguro-ku Tokyo 152-8550 Japan",
+                        "name_original": "Earth-Life Science Institute Tokyo Institute of Technology  Meguro-ku Tokyo 152-8550 Japan",
+                        "name_simple": "Earth Life Science Institute Tokyo Institute of Technology  Tokyo Japan"
+                },
+                {
+                        "name": "Institute for Extra-cutting-edge Science and Technology Avant-garde Research (X-star) Japan Agency for Marine-Earth Science and Technology (JAMSTEC)  Yokosuka Kanagawa 237-0061 Japan",
+                        "name_original": "Institute for Extra-cutting-edge Science and Technology Avant-garde Research (X-star) Japan Agency for Marine-Earth Science and Technology (JAMSTEC)  Yokosuka Kanagawa 237-0061 Japan",
+                        "name_simple": "Institute for Extra cutting edge Science and Technology Avant garde Research  X star  Japan Agency for Marine Earth Science and Technology Yokosuka Kanagawa 237 0061 Japan"
+                },
+                {
+                        "name": "The Pheasant Memorial Laboratory for Geochemistry and Cosmochemistry Institute for Planetary Materials Okayama University  Misasa Tottori 682-0193 Japan",
+                        "name_original": "The Pheasant Memorial Laboratory for Geochemistry and Cosmochemistry Institute for Planetary Materials Okayama University  Misasa Tottori 682-0193 Japan",
+                        "name_simple": "The Pheasant Memorial Laboratory for Geochemistry and Cosmochemistry Institute for Planetary Materials Okayama University  Tottori Japan"
+                },
+                {
+                        "name": "Department of Earth and Planetary Sciences Tokyo Institute of Technology  Meguro-ku Tokyo 152-8551 Japan",
+                        "name_original": "Department of Earth and Planetary Sciences Tokyo Institute of Technology  Meguro-ku Tokyo 152-8551 Japan",
+                        "name_simple": "Department of Earth and Planetary Sciences Tokyo Institute of Technology  Tokyo 152 8551 Japan"
+                },
+                {
+                        "name": "State Key Laboratory of Lunar and Planetary Sciences Macau University of Science and Technology (MUST)  Taipa Macau SAR China",
+                        "name_original": "State Key Laboratory of Lunar and Planetary Sciences Macau University of Science and Technology (MUST)  Taipa Macau SAR China",
+                        "name_simple": "State Key Laboratory of Lunar and Planetary Sciences Macau University of Science and Technology  Taipa Macau China"
+                },
+                {
+                        "name": "Blue Marble Space Institute of Science  Seattle WA 98104 USA",
+                        "name_original": "Blue Marble Space Institute of Science  Seattle WA 98104 USA",
+                        "name_simple": "Blue Marble Space Institute of Science  600 1st Ave  Seattle  WA 98104  USA"
+                },
+                {
+                        "name": "School of Chemistry UNSW Sydney  Sydney NSW 2052 Australia",
+                        "name_original": "School of Chemistry UNSW Sydney  Sydney NSW 2052 Australia",
+                        "name_simple": "School of Chemistry UNSW Sydney  Sydney NSW 2052 Australia"
+                },
+                {
+                        "name": "Australian Centre for Astrobiology UNSW Sydney  Sydney NSW 2052 Australia",
+                        "name_original": "Australian Centre for Astrobiology UNSW Sydney  Sydney NSW 2052 Australia",
+                        "name_simple": "Australian Centre for Astrobiology UNSW Sydney  Sydney NSW 2052 Australia"
+                },
+                {
+                        "name": "RNA Institute UNSW Sydney  Sydney NSW 2052 Australia",
+                        "name_original": "RNA Institute UNSW Sydney  Sydney NSW 2052 Australia",
+                        "name_simple": "RNA Institute UNSW Sydney  Sydney NSW 2052 Australia"
+                },
+                {
+                        "name": "ARC Centre of Excellence for Synthetic Biology UNSW Sydney  Sydney NSW 2052 Australia",
+                        "name_original": "ARC Centre of Excellence for Synthetic Biology UNSW Sydney  Sydney NSW 2052 Australia",
+                        "name_simple": "ARC Centre of Excellence for Synthetic Biology UNSW Sydney  Sydney NSW 2052 Australia"
+                },
+                {
+                        "name": "Space Science Center (ANGKASA) Institute of Climate Change National University of Malaysia  Selangor 43650 Malaysia",
+                        "name_original": "Space Science Center (ANGKASA) Institute of Climate Change National University of Malaysia  Selangor 43650 Malaysia",
+                        "name_simple": "Space Science Center  ANGKASA  Institute of Climate Change National University of Malaysia  Selangor 43650 Malaysia"
+                },
+                {
+                        "name": "Deep Space Exploration Laboratory/CAS Laboratory of Crust-Mantle Materials and Environments University of Science and Technology of China  Hefei 230026 China",
+                        "name_original": "Deep Space Exploration Laboratory/CAS Laboratory of Crust-Mantle Materials and Environments University of Science and Technology of China  Hefei 230026 China",
+                        "name_simple": "Deep Space Exploration Laboratory CAS Laboratory of Crust Mantle Materials and Environments University of Science and Technology of China  Hefei 230026 China"
+                },
+                {
+                        "name": "Department of Earth System Science, Stanford University, Stanford, CA 94305, USA.",
+                        "name_original": "Department of Earth System Science, Stanford University, Stanford, CA 94305, USA.",
+                        "name_simple": "Department of Earth System Science  Stanford University  Stanford  CA 94305  USA "
+                },
+                {
+                        "name": "Scripps Institution of Oceanography, UC San Diego, La Jolla, CA 92037, USA.",
+                        "name_original": "Scripps Institution of Oceanography, UC San Diego, La Jolla, CA 92037, USA.",
+                        "name_simple": "Scripps Institution of Oceanography  UC San Diego  La Jolla  CA 92037  USA "
+                },
+                {
+                        "name": "Johns Hopkins University Applied Physics Laboratory, Laurel, MD 20723, USA.",
+                        "name_original": "Johns Hopkins University Applied Physics Laboratory, Laurel, MD 20723, USA.",
+                        "name_simple": "Johns Hopkins University Applied Physics Laboratory  Laurel  MD 20723  USA "
+                },
+                {
+                        "name": "School of Earth and Atmospheric Sciences, Georgia Institute of Technology, Atlanta, GA 30332, USA.",
+                        "name_original": "School of Earth and Atmospheric Sciences, Georgia Institute of Technology, Atlanta, GA 30332, USA.",
+                        "name_simple": "School of Earth and Atmospheric Sciences  Georgia Institute of Technology  Atlanta  GA 30332  USA "
+                },
+                {
+                        "name": "Department of Geology and Geophysics, Louisiana State University, Baton Rouge, LA 70803, USA.",
+                        "name_original": "Department of Geology and Geophysics, Louisiana State University, Baton Rouge, LA 70803, USA.",
+                        "name_simple": "Department of Geology and Geophysics  Louisiana State University  Baton Rouge  LA 70803  USA "
+                },
+                {
+                        "name": "Blue Marble Space Institute of Science, Seattle, WA 98104, USA.",
+                        "name_original": "Blue Marble Space Institute of Science, Seattle, WA 98104, USA.",
+                        "name_simple": "Blue Marble Space Institute of Science  600 1st Ave  Seattle  WA 98104  USA"
+                },
+                {
+                        "name": "Departments of Astronomy and Earth and Atmospheric Sciences, Cornell University, Ithaca, NY 14853, USA.",
+                        "name_original": "Departments of Astronomy and Earth and Atmospheric Sciences, Cornell University, Ithaca, NY 14853, USA.",
+                        "name_simple": "Departments of Astronomy and Earth and Atmospheric Sciences  Cornell University  Ithaca  NY 14853  USA "
+                },
+                {
+                        "name": "University of Maryland, College Park - NASA Goddard Space Flight Center",
+                        "name_original": "University of Maryland, College Park - NASA Goddard Space Flight Center",
+                        "name_simple": "University of Maryland  College Park   NASA Goddard Space Flight Center"
+                },
+                {
+                        "name": "NASA Postdoctoral Fellow, NASA Goddard Space Flight Center",
+                        "name_original": "NASA Postdoctoral Fellow, NASA Goddard Space Flight Center",
+                        "name_simple": "NASA Postdoctoral Fellow  NASA Goddard Space Flight Center"
+                },
+                {
+                        "name": "Saint Mary's College of CA & The Planetary Science Institute",
+                        "name_original": "Saint Mary's College of CA & The Planetary Science Institute",
+                        "name_simple": "Saint Mary's College of CA 1928 St Marys Rd, Moraga, CA 94575"
+                },
+                {
+                        "name": "NASA Goddard Space Flight Center",
+                        "name_original": "NASA Goddard Space Flight Center",
+                        "name_simple": "NASA Goddard Space Flight Center"
+                },
+                {
+                        "name": "University of Maryland Department of Geology",
+                        "name_original": "University of Maryland Department of Geology",
+                        "name_simple": "University of Maryland College Park, MD 20742"
+                },
+                {
+                        "name": "Arizona State University, School of Earth & Space Exploration",
+                        "name_original": "Arizona State University, School of Earth & Space Exploration",
+                        "name_simple": "Arizona State University"
+                },
+                {
+                        "name": "SETI Institute Carl Sagan Center",
+                        "name_original": "SETI Institute Carl Sagan Center",
+                        "name_simple": "SETI Institute Carl Sagan Center 10210 Greenbelt Rd, Lanham, MD 20706"
+                },
+                {
+                        "name": "NASA Ames Research Center, Blue Marble Space Institute of Science",
+                        "name_original": "NASA Ames Research Center, Blue Marble Space Institute of Science",
+                        "name_simple": "NASA Ames Research Center"
+                },
+                {
+                        "name": "University of Maryland, Department of Astronomy",
+                        "name_original": "University of Maryland, Department of Astronomy",
+                        "name_simple": "University of Maryland"
+                },
+                {
+                        "name": "Lunar and Planetary Laboratory, University of Arizona",
+                        "name_original": "Lunar and Planetary Laboratory, University of Arizona",
+                        "name_simple": "Lunar and Planetary Laboratory  University of Arizona"
+                },
+                {
+                        "name": "Arizona State University, School of Earth and Space Exploration",
+                        "name_original": "Arizona State University, School of Earth and Space Exploration",
+                        "name_simple": "Arizona State University"
+                },
+                {
+                        "name": "Planetary Science Institute",
+                        "name_original": "Planetary Science Institute",
+                        "name_simple": "Planetary Science Institute 5241 Broad Branch Rd NW, Washington, DC 20015"
+                },
+                {
+                        "name": "New Mexico Museum of Natural History and Science",
+                        "name_original": "New Mexico Museum of Natural History and Science",
+                        "name_simple": "New Mexico Museum of Natural History and Science 1801 Mountain Rd NW, Albuquerque, NM 87104"
+                },
+                {
+                        "name": "Jet Propulsion Laboratory",
+                        "name_original": "Jet Propulsion Laboratory",
+                        "name_simple": "Jet Propulsion Laboratory Jet Propulsion Laboratory, 4800 Oak Grove Dr, La Cañada Flintridge, CA 91011"
+                },
+                {
+                        "name": "Franklin & Marshall College, Department of Earth & Environment",
+                        "name_original": "Franklin & Marshall College, Department of Earth & Environment",
+                        "name_simple": "Franklin   Marshall College"
+                },
+                {
+                        "name": "Princeton University, Department of Astrophysical Sciences",
+                        "name_original": "Princeton University, Department of Astrophysical Sciences",
+                        "name_simple": "Princeton University"
+                },
+                {
+                        "name": "USGS Astrogeology Science Center",
+                        "name_original": "USGS Astrogeology Science Center",
+                        "name_simple": "USGS Astrogeology Science Center Flagstaff, Arizona"
+                },
+                {
+                        "name": "University of Hawai`i at Manoa Hawai`i, Institute of Geophysics and Planetology",
+                        "name_original": "University of Hawai`i at Manoa Hawai`i, Institute of Geophysics and Planetology",
+                        "name_simple": "University of Hawai`i at Manoa Hawai`i  Institute of Geophysics and Planetology 1680 East-West Rd, Honolulu, HI 96822"
+                },
+                {
+                        "name": "Department of Geosciences, Stony Brook University",
+                        "name_original": "Department of Geosciences, Stony Brook University",
+                        "name_simple": "Department of Geosciences  Stony Brook University 100 Nicolls Rd, Stony Brook, NY 11794"
+                },
+                {
+                        "name": "The University of Texas at Austin",
+                        "name_original": "The University of Texas at Austin",
+                        "name_simple": "The University of Texas at Austin"
+                },
+                {
+                        "name": "University of Missouri-Kansas City, Department of Earth and Environmental Sciences",
+                        "name_original": "University of Missouri-Kansas City, Department of Earth and Environmental Sciences",
+                        "name_simple": "University of Missouri Kansas City"
+                },
+                {
+                        "name": "NASA Johnson Space Center, Astromaterials Research and Exploration Science Division",
+                        "name_original": "NASA Johnson Space Center, Astromaterials Research and Exploration Science Division",
+                        "name_simple": "NASA Johnson Space Center"
+                },
+                {
+                        "name": "NASA Postdoctoral Program Fellow, NASA Goddard Space Flight Center",
+                        "name_original": "NASA Postdoctoral Program Fellow, NASA Goddard Space Flight Center",
+                        "name_simple": "NASA Postdoctoral Program Fellow  NASA Goddard Space Flight Center"
+                },
+                {
+                        "name": "NASA Jet Propulsion Laboratory, California Institute of Technology",
+                        "name_original": "NASA Jet Propulsion Laboratory, California Institute of Technology",
+                        "name_simple": "NASA Jet Propulsion Laboratory  California Institute of Technology"
+                },
+                {
+                        "name": "Idaho State University, Department of Geosciences",
+                        "name_original": "Idaho State University, Department of Geosciences",
+                        "name_simple": "Idaho State University"
+                },
+                {
+                        "name": "Fibernetics LLC",
+                        "name_original": "Fibernetics LLC",
+                        "name_simple": "Fibernetics LLC 96 Grand Ave S #203, Cambridge, ON N1S 2L9, Canada"
+                },
+                {
+                        "name": "Blue Marble Space Institute of Science",
+                        "name_original": "Blue Marble Space Institute of Science",
+                        "name_simple": "Blue Marble Space Institute of Science Seattle WA"
+                },
+                {
+                        "name": "Lamont-Doherty Earth Observatory, Columbia University New York NY USA",
+                        "name_original": "Lamont-Doherty Earth Observatory, Columbia University New York NY UAS",
+                        "name_simple": "Lamont Doherty Earth Observatory  Columbia University New York NY USA"
+                },
+                {
+                        "name": "Johns Hopkins University, Applied Physics Laboratory Space Exploration Sector",
+                        "name_original": "Johns Hopkins University, Applied Physics Laboratory Space Exploration Sector",
+                        "name_simple": "Johns Hopkins University  Applied Physics Laboratory Space Exploration Sector 11100 Johns Hopkins Rd, Laurel, MD 20723"
+                },
+                {
+                        "name": "NASA Goddard Space Flight Center, Planetary Environments Laboratory",
+                        "name_original": "NASA Goddard Space Flight Center, Planetary Environments Laboratory",
+                        "name_simple": "NASA Goddard Space Flight Center"
+                },
+                {
+                        "name": "University of Tennessee, Knoxville, Department of Earth and Planetary Sciences",
+                        "name_original": "University of Tennessee, Knoxville, Department of Earth and Planetary Sciences",
+                        "name_simple": "University of Tennessee  Knoxville"
+                },
+                {
+                        "name": "The University of Western Ontario & The Planetary Science Institute",
+                        "name_original": "The University of Western Ontario & The Planetary Science Institute",
+                        "name_simple": "The University of Western Ontario"
+                },
+                {
+                        "name": "The University of Western Ontario",
+                        "name_original": "The University of Western Ontario",
+                        "name_simple": "The University of Western Ontario"
+                },
+                {
+                        "name": "DLR Institute of Planetary Science, Berlin Germany",
+                        "name_original": "DLR Institute of Planetary Science, Berlin Germany",
+                        "name_simple": "DLR Institute of Planetary Science  Berlin Germany"
+                },
+                {
+                        "name": "Southwest Research Institute",
+                        "name_original": "Southwest Research Institute",
+                        "name_simple": "Southwest Research Institute 7380 Coca Cola, Hanover, MD 21076"
+                },
+                {
+                        "name": "University of Maryland College Park - NASA Goddard Space Flight Center, Geology Geophysics and Geochemistry Laboratory",
+                        "name_original": "University of Maryland College Park - NASA Goddard Space Flight Center, Geology Geophysics and Geochemistry Laboratory",
+                        "name_simple": "University of Maryland College Park   NASA Goddard Space Flight Center"
+                },
+                {
+                        "name": "Pacific International Space Center for Exploration Systems",
+                        "name_original": "Pacific International Space Center for Exploration Systems",
+                        "name_simple": "Pacific International Space Center for Exploration Systems 99 Aupuni St Ste. 212-213, Hilo, HI 96720"
+                },
+                {
+                        "name": "Johns Hopkins, APL Planetary Exploration Group",
+                        "name_original": "Johns Hopkins, APL Planetary Exploration Group",
+                        "name_simple": "Johns Hopkins  APL Planetary Exploration Group 11100 Johns Hopkins Rd, Laurel, MD 20723"
+                },
+                {
+                        "name": "Northern Arizona University",
+                        "name_original": "Northern Arizona University",
+                        "name_simple": "Northern Arizona University Flagstaff, AZ 86011"
+                },
+                {
+                        "name": "Howard University, Department of Physics and Astronomy",
+                        "name_original": "Howard University, Department of Physics and Astronomy",
+                        "name_simple": "Howard University"
+                },
+                {
+                        "name": "University of Maryland, Department of Geology",
+                        "name_original": "University of Maryland, Department of Geology",
+                        "name_simple": "University of Maryland"
+                },
+                {
+                        "name": "USGS Hawaii Volcano Observatory",
+                        "name_original": "USGS Hawaii Volcano Observatory",
+                        "name_simple": "USGS Hawaii Volcano Observatory Volcano, HI 96785"
+                },
+                {
+                        "name": "Arizona State University",
+                        "name_original": "Arizona State University",
+                        "name_simple": "Arizona State University"
+                },
+                {
+                        "name": "University of Arizona, Lunar and Planetary Laboratory",
+                        "name_original": "University of Arizona, Lunar and Planetary Laboratory",
+                        "name_simple": "University of Arizona  Lunar and Planetary Laboratory"
+                },
+                {
+                        "name": "NASA Postdoctoral Program Fellow, NASA Johnson Space Center",
+                        "name_original": "NASA Postdoctoral Program Fellow, NASA Johnson Space Center",
+                        "name_simple": "NASA Postdoctoral Program Fellow  NASA Johnson Space Center"
+                },
+                {
+                        "name": "University of Iowa, Earth & Environmental Sciences",
+                        "name_original": "University of Iowa, Earth & Environmental Sciences",
+                        "name_simple": "University of Iowa"
+                },
+                {
+                        "name": "Michigan Technological University, Planetary Surface Technology Development Lab Mechanical Engineering - Engineering Mechanics",
+                        "name_original": "Michigan Technological University, Planetary Surface Technology Development Lab Mechanical Engineering - Engineering Mechanics",
+                        "name_simple": "Michigan Technological University"
+                },
+                {
+                        "name": "NASA Goddard Space Flight Center: Geology Geophysics and Geochemistry Laboratory",
+                        "name_original": "NASA Goddard Space Flight Center: Geology Geophysics and Geochemistry Laboratory",
+                        "name_simple": "NASA Goddard Space Flight Center"
+                },
+                {
+                        "name": "National Air and Space Museum, Smithsonian Institution",
+                        "name_original": "National Air and Space Museum, Smithsonian Institution",
+                        "name_simple": "National Air and Space Museum  Smithsonian Institution"
+                },
+                {
+                        "name": "Jet Propulsion Laboratory California Institute of Technology  Pasadena CA USA",
+                        "name_original": "Jet Propulsion Laboratory California Institute of Technology  Pasadena CA USA",
+                        "name_simple": "Jet Propulsion Laboratory California Institute of Technology  Pasadena CA USA"
+                },
+                {
+                        "name": "Computational and Data Sciences Department George Mason University  Fairfax VA USA",
+                        "name_original": "Computational and Data Sciences Department George Mason University  Fairfax VA USA",
+                        "name_simple": "Computational and Data Sciences Department George Mason University  Fairfax VA USA"
+                },
+                {
+                        "name": "Los Alamos National Laboratory  Los Alamos NM USA",
+                        "name_original": "Los Alamos National Laboratory  Los Alamos NM USA",
+                        "name_simple": "Los Alamos National Laboratory  Los Alamos NM USA"
+                },
+                {
+                        "name": "Vivekananda Mission High School  East Midnapore West Bengal India",
+                        "name_original": "Vivekananda Mission High School  East Midnapore West Bengal India",
+                        "name_simple": "Vivekananda Mission High School  East Midnapore West Bengal India"
+                },
+                {
+                        "name": "Yeshiva University  New York NY USA",
+                        "name_original": "Yeshiva University  New York NY USA",
+                        "name_simple": "Yeshiva University  New York NY USA"
+                },
+                {
+                        "name": "All Earth Citizens Foundation  Irvine CA USA",
+                        "name_original": "All Earth Citizens Foundation  Irvine CA USA",
+                        "name_simple": "All Earth Citizens Foundation  Irvine CA USA"
+                },
+                {
+                        "name": "School of Physics and Technology Wuhan University  Wuhan China",
+                        "name_original": "School of Physics and Technology Wuhan University  Wuhan China",
+                        "name_simple": "School of Physics and Technology Wuhan University  Wuhan China"
+                },
+                {
+                        "name": "Department of Zoology University of Cambridge  Cambridge UK",
+                        "name_original": "Department of Zoology University of Cambridge  Cambridge UK",
+                        "name_simple": "Department of Zoology University of Cambridge  Cambridge UK"
+                },
+                {
+                        "name": "Department of Astronomy Columbia University  New York NY USA",
+                        "name_original": "Department of Astronomy Columbia University  New York NY USA",
+                        "name_simple": "Department of Astronomy Columbia University  New York NY USA"
+                },
+                {
+                        "name": "Blue Marble Space Institute of Science  Boulder CO USA",
+                        "name_original": "Blue Marble Space Institute of Science  Boulder CO USA",
+                        "name_simple": "Blue Marble Space Institute of Science  Boulder CO USA"
+                },
+                {
+                        "name": "Department of Philosophy Barnard College Columbia University  New York NY USA",
+                        "name_original": "Department of Philosophy Barnard College Columbia University  New York NY USA",
+                        "name_simple": "Department of Philosophy Barnard College Columbia University  New York NY USA"
+                },
+                {
+                        "name": "Climate Change Cluster University of Technology Sydney  Sydney NSW Australia",
+                        "name_original": "Climate Change Cluster University of Technology Sydney  Sydney NSW Australia",
+                        "name_simple": "Climate Change Cluster University of Technology Sydney  Sydney NSW Australia"
+                },
+                {
+                        "name": "Independent Researcher  Vancouver WA USA",
+                        "name_original": "Independent Researcher  Vancouver WA USA",
+                        "name_simple": "Independent Researcher  Vancouver WA USA"
+                },
+                {
+                        "name": "Interstellar Foundation  Johannesburg South Africa",
+                        "name_original": "Interstellar Foundation  Johannesburg South Africa",
+                        "name_simple": "Interstellar Foundation  Johannesburg South Africa"
+                },
+                {
+                        "name": "The SETI Institute  Mountain View CA USA",
+                        "name_original": "The SETI Institute  Mountain View CA USA",
+                        "name_simple": "The SETI Institute  Mountain View CA USA"
+                },
+                {
+                        "name": "Interplanetary Initiative Arizona State University  Tempe AZ USA",
+                        "name_original": "Interplanetary Initiative Arizona State University  Tempe AZ USA",
+                        "name_simple": "Interplanetary Initiative Arizona State University  Tempe AZ USA"
+                },
+                {
+                        "name": "Blue Marble Space Institute of Science  Seattle Washington USA",
+                        "name_original": "Blue Marble Space Institute of Science  Seattle Washington USA",
+                        "name_simple": "Blue Marble Space Institute of Science  Seattle Washington USA"
+                },
+                {
+                        "name": "Earth-Life Science Institute Tokyo Institute of Technology  Tokyo Japan",
+                        "name_original": "Earth-Life Science Institute Tokyo Institute of Technology  Tokyo Japan",
+                        "name_simple": "Earth Life Science Institute Tokyo Institute of Technology  Tokyo Japan"
+                },
+                {
+                        "name": "Assistant Professor, Department of Pathology, Microbiology, and Immunology, Vanderbilt University School of Medicine , Nashville, TN , United States",
+                        "name_original": "Assistant Professor, Department of Pathology, Microbiology, and Immunology, Vanderbilt University School of Medicine , Nashville, TN , United States",
+                        "name_simple": "Assistant Professor  Department of Pathology  Microbiology  and Immunology  Vanderbilt University School of Medicine   Nashville  TN   United States"
+                },
+                {
+                        "name": "Assistant Professor, Department of Biochemistry, Atal Bihari Vajpayee Institute of Medical Sciences & Dr Ram Manohar Lohia Hospital , New Delhi , India",
+                        "name_original": "Assistant Professor, Department of Biochemistry, Atal Bihari Vajpayee Institute of Medical Sciences & Dr Ram Manohar Lohia Hospital , New Delhi , India",
+                        "name_simple": "Assistant Professor  Department of Biochemistry  Atal Bihari Vajpayee Institute of Medical Sciences   Dr Ram Manohar Lohia Hospital   New Delhi   India"
+                },
+                {
+                        "name": "Bioinformatician and Principal Investigator, KBR, Space Biosciences Division, NASA Ames Research Center , Moffett Field, CA , United States",
+                        "name_original": "Bioinformatician and Principal Investigator, KBR, Space Biosciences Division, NASA Ames Research Center , Moffett Field, CA , United States",
+                        "name_simple": "Bioinformatician and Principal Investigator  KBR  Space Biosciences Division  NASA Ames Research Center   Moffett Field  CA   United States"
+                },
+                {
+                        "name": "Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard , Cambridge, MA , United States",
+                        "name_original": "Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard , Cambridge, MA , United States",
+                        "name_simple": "Stanley Center for Psychiatric Research  Broad Institute of MIT and Harvard   Cambridge  MA   United States"
+                },
+                {
+                        "name": "COVID-19 International Research Team , Medford, MA , United States",
+                        "name_original": "COVID-19 International Research Team , Medford, MA , United States",
+                        "name_simple": "COVID 19 International Research Team   Medford  MA   United States"
+                },
+                {
+                        "name": "Lead Scientist, Biomedical Research and Environmental Sciences Division, National Aeronautics and Space Administration, Lyndon B. Johnson Space Center , Houston, TX , United States",
+                        "name_original": "Lead Scientist, Biomedical Research and Environmental Sciences Division, National Aeronautics and Space Administration, Lyndon B. Johnson Space Center , Houston, TX , United States",
+                        "name_simple": "Lead Scientist  Biomedical Research and Environmental Sciences Division  National Aeronautics and Space Administration  Lyndon B  Johnson Space Center   Houston  TX   United States"
+                },
+                {
+                        "name": "Scientist and Principal Investigator, Blue Marble Space Institute of Science, Exobiology Branch, NASA Ames Research Center , Moffett Field, CA , United States",
+                        "name_original": "Scientist and Principal Investigator, Blue Marble Space Institute of Science, Exobiology Branch, NASA Ames Research Center , Moffett Field, CA , United States",
+                        "name_simple": "Scientist and Principal Investigator  Blue Marble Space Institute of Science  Exobiology Branch  NASA Ames Research Center   Moffett Field  CA   United States"
+                },
+                {
+                        "name": "Space Research Within Reach , San Francisco, CA , United States",
+                        "name_original": "Space Research Within Reach , San Francisco, CA , United States",
+                        "name_simple": "Space Research Within Reach   San Francisco  CA   United States"
+                },
+                {
+                        "name": "Center for Space Medicine, Baylor College of Medicine , Houston, TX , United States",
+                        "name_original": "Center for Space Medicine, Baylor College of Medicine , Houston, TX , United States",
+                        "name_simple": "Center for Space Medicine  Baylor College of Medicine   Houston  TX   United States"
+                },
+                {
+                        "name": "Professor, Bone and Joint Research Laboratory, Ottawa Hospital Research Institute , Ottawa, Ontario , Canada",
+                        "name_original": "Professor, Bone and Joint Research Laboratory, Ottawa Hospital Research Institute , Ottawa, Ontario , Canada",
+                        "name_simple": "Professor  Bone and Joint Research Laboratory  Ottawa Hospital Research Institute   Ottawa  Ontario   Canada"
+                },
+                {
+                        "name": "Department of Medicine, Division of Physical Medicine and Rehabilitation, The Ottawa Hospital , Ottawa, Ontario , Canada",
+                        "name_original": "Department of Medicine, Division of Physical Medicine and Rehabilitation, The Ottawa Hospital , Ottawa, Ontario , Canada",
+                        "name_simple": "Department of Medicine  Division of Physical Medicine and Rehabilitation  The Ottawa Hospital   Ottawa  Ontario   Canada"
+                },
+                {
+                        "name": "Department of Biochemistry, Microbiology and Immunology, Faculty of Medicine, University of Ottawa , Ottawa, Ontario , Canada",
+                        "name_original": "Department of Biochemistry, Microbiology and Immunology, Faculty of Medicine, University of Ottawa , Ottawa, Ontario , Canada",
+                        "name_simple": "Department of Biochemistry  Microbiology and Immunology  Faculty of Medicine  University of Ottawa   Ottawa  Ontario   Canada"
+                },
+                {
+                        "name": "Director of Clinical Laboratories, Space Medicine Division, National Aeronautics and Space Administration, Lyndon B. Johnson Space Center , Houston, TX , United States",
+                        "name_original": "Director of Clinical Laboratories, Space Medicine Division, National Aeronautics and Space Administration, Lyndon B. Johnson Space Center , Houston, TX , United States",
+                        "name_simple": "Director of Clinical Laboratories  Space Medicine Division  National Aeronautics and Space Administration  Lyndon B  Johnson Space Center   Houston  TX   United States"
+                },
+                {
+                        "name": "Universities Space Research Association at NASA Ames Research Center  Mountain View California USA",
+                        "name_original": "Universities Space Research Association at NASA Ames Research Center  Mountain View California USA",
+                        "name_simple": "Universities Space Research Association at NASA Ames Research Center  Mountain View California USA"
+                },
+                {
+                        "name": "Polish Astrobiology Society  Warsaw Poland",
+                        "name_original": "Polish Astrobiology Society  Warsaw Poland",
+                        "name_simple": "Polish Astrobiology Society  Warsaw Poland"
+                },
+                {
+                        "name": "Department of Chemical and Systems Biology Stanford University School of Medicine  Stanford California USA",
+                        "name_original": "Department of Chemical and Systems Biology Stanford University School of Medicine  Stanford California USA",
+                        "name_simple": "Department of Chemical and Systems Biology Stanford University School of Medicine  Stanford California USA"
+                },
+                {
+                        "name": "Centre of New Technologies University of Warsaw  Warsaw Poland",
+                        "name_original": "Centre of New Technologies University of Warsaw  Warsaw Poland",
+                        "name_simple": "Centre of New Technologies University of Warsaw  Warsaw Poland"
+                },
+                {
+                        "name": "KBR, NASA Ames Research Center  Mountain View California USA",
+                        "name_original": "KBR, NASA Ames Research Center  Mountain View California USA",
+                        "name_simple": "KBR  NASA Ames Research Center  Mountain View California USA"
+                },
+                {
+                        "name": "School of Chemistry University of New South Wales  Sydney Australia",
+                        "name_original": "School of Chemistry University of New South Wales  Sydney Australia",
+                        "name_simple": "School of Chemistry University of New South Wales  Sydney Australia"
+                },
+                {
+                        "name": "Department of Earth Science University of California  Santa Barbara California USA",
+                        "name_original": "Department of Earth Science University of California  Santa Barbara California USA",
+                        "name_simple": "Department of Earth Science University of California  Santa Barbara California USA"
+                },
+                {
+                        "name": "Department of Biophysics, Faculty of Physics University of Warsaw  Warsaw Poland",
+                        "name_original": "Department of Biophysics, Faculty of Physics University of Warsaw  Warsaw Poland",
+                        "name_simple": "Department of Biophysics  Faculty of Physics University of Warsaw  Warsaw Poland"
+                },
+                {
+                        "name": "Space Science and Astrobiology Division, NASA Ames Research Center  Mountain View California USA",
+                        "name_original": "Space Science and Astrobiology Division, NASA Ames Research Center  Mountain View California USA",
+                        "name_simple": "Space Science and Astrobiology Division  NASA Ames Research Center  Mountain View California USA"
+                },
+                {
+                        "name": "The MITRE Corporation,McLean,VA,USA,22102",
+                        "name_original": "The MITRE Corporation,McLean,VA,USA,22102",
+                        "name_simple": "The MITRE Corporation McLean VA USA 22102"
+                },
+                {
+                        "name": "Center for Isotope Cosmochemistry and Geochronology Astromaterials Research and Exploration Science NASA Johnson Space Center  Houston TX USA",
+                        "name_original": "Center for Isotope Cosmochemistry and Geochronology Astromaterials Research and Exploration Science NASA Johnson Space Center  Houston TX USA",
+                        "name_simple": "Center for Isotope Cosmochemistry and Geochronology Astromaterials Research and Exploration Science NASA Johnson Space Center  Houston TX USA"
+                },
+                {
+                        "name": "The Natural History Museum  London UK",
+                        "name_original": "The Natural History Museum  London UK",
+                        "name_simple": "The Natural History Museum  London UK"
+                },
+                {
+                        "name": "Dipartimento BiGeA Universita di Bologna  Bologna Italy",
+                        "name_original": "Dipartimento BiGeA Universita di Bologna  Bologna Italy",
+                        "name_simple": "Dipartimento BiGeA Universita di Bologna  Bologna Italy"
+                },
+                {
+                        "name": "NASA Goddard Space Flight Center  Greenbelt MD USA",
+                        "name_original": "NASA Goddard Space Flight Center  Greenbelt MD USA",
+                        "name_simple": "NASA Goddard Space Flight Center  Greenbelt MD USA"
+                },
+                {
+                        "name": "Department of Geological Sciences University of Colorado Boulder  Boulder CO USA",
+                        "name_original": "Department of Geological Sciences University of Colorado Boulder  Boulder CO USA",
+                        "name_simple": "Department of Geological Sciences University of Colorado Boulder  Boulder CO USA"
+                },
+                {
+                        "name": "University of California, Berkeley  Berkeley CA USA",
+                        "name_original": "University of California, Berkeley  Berkeley CA USA",
+                        "name_simple": "University of California  Berkeley  Berkeley CA USA"
+                },
+                {
+                        "name": "Universitelibre de Bruxelles  Brussels Belgium",
+                        "name_original": "Universitelibre de Bruxelles  Brussels Belgium",
+                        "name_simple": "Universitelibre de Bruxelles  Brussels Belgium"
+                },
+                {
+                        "name": "Department of Geosciences University of Nevada, Las Vegas  Las Vegas NV USA",
+                        "name_original": "Department of Geosciences University of Nevada, Las Vegas  Las Vegas NV USA",
+                        "name_simple": "Department of Geosciences University of Nevada  Las Vegas  Las Vegas NV USA"
+                },
+                {
+                        "name": "Department of Earth, Atmospheric, and Planetary Sciences Massachusetts Institute of Technology  Cambridge MA USA",
+                        "name_original": "Department of Earth, Atmospheric, and Planetary Sciences Massachusetts Institute of Technology  Cambridge MA USA",
+                        "name_simple": "Department of Earth  Atmospheric  and Planetary Sciences Massachusetts Institute of Technology  Cambridge MA USA"
+                },
+                {
+                        "name": "Centro de Astrobiologia (CAB) CSIC-INTA  Madrid Spain",
+                        "name_original": "Centro de Astrobiologia (CAB) CSIC-INTA  Madrid Spain",
+                        "name_simple": "Centro de Astrobiologia  CAB  CSIC INTA  Madrid Spain"
+                },
+                {
+                        "name": "University of Oslo Norwegian Research Council  Oslo Norway",
+                        "name_original": "University of Oslo Norwegian Research Council  Oslo Norway",
+                        "name_simple": "University of Oslo Norwegian Research Council  Oslo Norway"
+                },
+                {
+                        "name": "Arizona State University  Tempe AZ USA",
+                        "name_original": "Arizona State University  Tempe AZ USA",
+                        "name_simple": "Arizona State University  Tempe AZ USA"
+                },
+                {
+                        "name": "West Virginia University  Morgantown WV USA",
+                        "name_original": "West Virginia University  Morgantown WV USA",
+                        "name_simple": "West Virginia University  Morgantown WV USA"
+                },
+                {
+                        "name": "Texas State University Jacobs JETS NASA Johnsons Space Center  Houston TX USA",
+                        "name_original": "Texas State University Jacobs JETS NASA Johnsons Space Center  Houston TX USA",
+                        "name_simple": "Texas State University Jacobs JETS NASA Johnsons Space Center  Houston TX USA"
+                },
+                {
+                        "name": "Institut de Mineralogie Physique des Materiaux et Cosmochimie CNRS UMR 7590 Sorbonne Universite Museum National d'Histoire Naturelle  Paris France",
+                        "name_original": "Institut de Mineralogie Physique des Materiaux et Cosmochimie CNRS UMR 7590 Sorbonne Universite Museum National d'Histoire Naturelle  Paris France",
+                        "name_simple": "Institut de Mineralogie Physique des Materiaux et Cosmochimie CNRS UMR 7590 Sorbonne Universite Museum National d'Histoire Naturelle  Paris France"
+                },
+                {
+                        "name": "Plancius Research  Severna Park MD USA",
+                        "name_original": "Plancius Research  Severna Park MD USA",
+                        "name_simple": "Plancius Research  Severna Park MD USA"
+                },
+                {
+                        "name": "Space Science Institute  Boulder CO USA",
+                        "name_original": "Space Science Institute  Boulder CO USA",
+                        "name_simple": "Space Science Institute  Boulder CO USA"
+                },
+                {
+                        "name": "CELIA Universite de Bordeaux CNRS CEA  Bordeaux France",
+                        "name_original": "CELIA Universite de Bordeaux CNRS CEA  Bordeaux France",
+                        "name_simple": "CELIA Universite de Bordeaux CNRS CEA  Bordeaux France"
+                },
+                {
+                        "name": "New Mexico Museum of Natural History and Science  Albuquerque NM USA",
+                        "name_original": "New Mexico Museum of Natural History and Science  Albuquerque NM USA",
+                        "name_simple": "New Mexico Museum of Natural History and Science  Albuquerque NM USA"
+                },
+                {
+                        "name": "Department of Geology University of Cincinnati  Cincinnati OH USA",
+                        "name_original": "Department of Geology University of Cincinnati  Cincinnati OH USA",
+                        "name_simple": "Department of Geology University of Cincinnati  Cincinnati OH USA"
+                },
+                {
+                        "name": "Department Astronomy Cornell University  Ithaca NY USA",
+                        "name_original": "Department Astronomy Cornell University  Ithaca NY USA",
+                        "name_simple": "Department Astronomy Cornell University  Ithaca NY USA"
+                },
+                {
+                        "name": "California Institute of Technology  Pasadena CA USA",
+                        "name_original": "California Institute of Technology  Pasadena CA USA",
+                        "name_simple": "California Institute of Technology  Pasadena CA USA"
+                },
+                {
+                        "name": "Queensland University of Technology  Brisbane QL Australia",
+                        "name_original": "Queensland University of Technology  Brisbane QL Australia",
+                        "name_simple": "Queensland University of Technology  Brisbane QL Australia"
+                },
+                {
+                        "name": "INAF-Astrophysical Observatory of Arcetri  Florence Italy",
+                        "name_original": "INAF-Astrophysical Observatory of Arcetri  Florence Italy",
+                        "name_simple": "INAF Astrophysical Observatory of Arcetri  Florence Italy"
+                },
+                {
+                        "name": "Institut de Recherche en Astrophysique et Planetologie (IRAP) Universite de Toulouse CNRS UPS CNES  Toulouse France",
+                        "name_original": "Institut de Recherche en Astrophysique et Planetologie (IRAP) Universite de Toulouse CNRS UPS CNES  Toulouse France",
+                        "name_simple": "Institut de Recherche en Astrophysique et Planetologie  IRAP  Universite de Toulouse CNRS UPS CNES  Toulouse France"
+                },
+                {
+                        "name": "Danmarks Tekniske Universitet National Space Institute  Lyngby Denmark",
+                        "name_original": "Danmarks Tekniske Universitet National Space Institute  Lyngby Denmark",
+                        "name_simple": "Danmarks Tekniske Universitet National Space Institute  Lyngby Denmark"
+                },
+                {
+                        "name": "Department of Earth and Atmospheric Sciences University of Alberta  Edmonton AB Canada",
+                        "name_original": "Department of Earth and Atmospheric Sciences University of Alberta  Edmonton AB Canada",
+                        "name_simple": "Department of Earth and Atmospheric Sciences University of Alberta  Edmonton AB Canada"
+                },
+                {
+                        "name": "Department of Earth, Atmospheric, and Planetary Sciences Purdue University  West Lafayette IN USA",
+                        "name_original": "Department of Earth, Atmospheric, and Planetary Sciences Purdue University  West Lafayette IN USA",
+                        "name_simple": "Department of Earth  Atmospheric  and Planetary Sciences Purdue University  West Lafayette IN USA"
+                },
+                {
+                        "name": "Johns Hopkins University Applied Physics Laboratory  Laurel MD USA",
+                        "name_original": "Johns Hopkins University Applied Physics Laboratory  Laurel MD USA",
+                        "name_simple": "Johns Hopkins University Applied Physics Laboratory  Laurel MD USA"
+                },
+                {
+                        "name": "Cornell University  Ithaca NY USA",
+                        "name_original": "Cornell University  Ithaca NY USA",
+                        "name_simple": "Cornell University  Ithaca NY USA"
+                },
+                {
+                        "name": "Department of Analytical Chemistry University of the Basque Country (UPV/EHU)  Leioa Spain",
+                        "name_original": "Department of Analytical Chemistry University of the Basque Country (UPV/EHU)  Leioa Spain",
+                        "name_simple": "Department of Analytical Chemistry University of the Basque Country  UPV EHU   Leioa Spain"
+                },
+                {
+                        "name": "LESIA Observatoire de Paris Universite PSL CNRS Sorbonne Universite Universite de Paris  Meudon France",
+                        "name_original": "LESIA Observatoire de Paris Universite PSL CNRS Sorbonne Universite Universite de Paris  Meudon France",
+                        "name_simple": "LESIA Observatoire de Paris Universite PSL CNRS Sorbonne Universite Universite de Paris  Meudon France"
+                },
+                {
+                        "name": "Astromaterials Research and Exploration Science NASA Johnson Space Center  Houston TX USA",
+                        "name_original": "Astromaterials Research and Exploration Science NASA Johnson Space Center  Houston TX USA",
+                        "name_simple": "Astromaterials Research and Exploration Science NASA Johnson Space Center  Houston TX USA"
+                },
+                {
+                        "name": "Department of Geosciences Stony Brook University  Stony Brook NY USA",
+                        "name_original": "Department of Geosciences Stony Brook University  Stony Brook NY USA",
+                        "name_simple": "Department of Geosciences Stony Brook University  Stony Brook NY USA"
+                },
+                {
+                        "name": "Aeolis Research  Chandler AZ USA",
+                        "name_original": "Aeolis Research  Chandler AZ USA",
+                        "name_simple": "Aeolis Research  Chandler AZ USA"
+                },
+                {
+                        "name": "Malin Space Science Systems  San Diego CA USA",
+                        "name_original": "Malin Space Science Systems  San Diego CA USA",
+                        "name_simple": "Malin Space Science Systems  San Diego CA USA"
+                },
+                {
+                        "name": "INAF-Astrophysical Observatory of Arcetri  Firenze Italy",
+                        "name_original": "INAF-Astrophysical Observatory of Arcetri  Firenze Italy",
+                        "name_simple": "INAF Astrophysical Observatory of Arcetri  Firenze Italy"
+                },
+                {
+                        "name": "Laboratoire de Geologie de Lyon Universite Lyon Batiment Geode  Villeurbanne France",
+                        "name_original": "Laboratoire de Geologie de Lyon Universite Lyon Batiment Geode  Villeurbanne France",
+                        "name_simple": "Laboratoire de Geologie de Lyon Universite Lyon Batiment Geode  Villeurbanne France"
+                },
+                {
+                        "name": "Western Washington University  Bellingham WA USA",
+                        "name_original": "Western Washington University  Bellingham WA USA",
+                        "name_simple": "Western Washington University  Bellingham WA USA"
+                },
+                {
+                        "name": "Department of Earth Sciences Brock University  St. Catharines ON Canada",
+                        "name_original": "Department of Earth Sciences Brock University  St. Catharines ON Canada",
+                        "name_simple": "Department of Earth Sciences Brock University  St  Catharines ON Canada"
+                },
+                {
+                        "name": "Department of Earth Science and Engineering Imperial College London  London UK",
+                        "name_original": "Department of Earth Science and Engineering Imperial College London  London UK",
+                        "name_simple": "Department of Earth Science and Engineering Imperial College London  London UK"
+                },
+                {
+                        "name": "RISE Research Institutes of Sweden  Stockholm Sweden",
+                        "name_original": "RISE Research Institutes of Sweden  Stockholm Sweden",
+                        "name_simple": "RISE Research Institutes of Sweden  Stockholm Sweden"
+                },
+                {
+                        "name": "Earth and Planetary Laboratory Carnegie Institution for Science  Washington DC USA",
+                        "name_original": "Earth and Planetary Laboratory Carnegie Institution for Science  Washington DC USA",
+                        "name_simple": "Earth and Planetary Laboratory Carnegie Institution for Science  Washington DC USA"
+                },
+                {
+                        "name": "McDonnell Center for the Space Sciences Department of Earth and Planetary Sciences Washington University in St. Louis  St. Louis MO USA",
+                        "name_original": "McDonnell Center for the Space Sciences Department of Earth and Planetary Sciences Washington University in St. Louis  St. Louis MO USA",
+                        "name_simple": "McDonnell Center for the Space Sciences Department of Earth and Planetary Sciences Washington University in St  Louis  St  Louis MO USA"
+                },
+                {
+                        "name": "Department of Geological Sciences University of Florida  Gainesville FL USA",
+                        "name_original": "Department of Geological Sciences University of Florida  Gainesville FL USA",
+                        "name_simple": "Department of Geological Sciences University of Florida  Gainesville FL USA"
+                },
+                {
+                        "name": "Blue Marble Space Institute of Science  Seattle WA USA",
+                        "name_original": "Blue Marble Space Institute of Science  Seattle WA USA",
+                        "name_simple": "Blue Marble Space Institute of Science  Seattle WA USA"
+                },
+                {
+                        "name": "Jet Propulsion Laboratory, California Institute of Technology",
+                        "name_original": "Jet Propulsion Laboratory, California Institute of Technology",
+                        "name_simple": "Jet Propulsion Laboratory  California Institute of Technology"
+                },
+                {
+                        "name": "George Mason University",
+                        "name_original": "George Mason University",
+                        "name_simple": "George Mason University 4400 University Dr, Fairfax, VA 22030"
+                },
+                {
+                        "name": "Los Alamos National Laboratory",
+                        "name_original": "Los Alamos National Laboratory",
+                        "name_simple": "Los Alamos National Laboratory Los Alamos, NM 87545"
+                },
+                {
+                        "name": "Vivekananda Mission High School",
+                        "name_original": "Vivekananda Mission High School",
+                        "name_simple": "Vivekananda Mission High School Dakshin Mechgram Rd, Mecho Gram, Panskura, Dakshin Mechgram, West Bengal 721139, India"
+                },
+                {
+                        "name": "JPL / Caltech",
+                        "name_original": "JPL / Caltech",
+                        "name_simple": "JPL   Caltech Jet Propulsion Laboratory, 4800 Oak Grove Dr, La Canada Flintridge, CA 91011"
+                },
+                {
+                        "name": "All-Earth Citizens Foundation",
+                        "name_original": "All-Earth Citizens Foundation",
+                        "name_simple": "All Earth Citizens Foundation 16215 Askin Dr Glendale, CA 91208"
+                },
+                {
+                        "name": "Wuhan University",
+                        "name_original": "Wuhan University",
+                        "name_simple": "Wuhan University"
+                },
+                {
+                        "name": "Cambridge University",
+                        "name_original": "Cambridge University",
+                        "name_simple": "Cambridge University"
+                },
+                {
+                        "name": "Columbia University",
+                        "name_original": "Columbia University",
+                        "name_simple": "Columbia University"
+                },
+                {
+                        "name": "University of Technology Sydney",
+                        "name_original": "University of Technology Sydney",
+                        "name_simple": "University of Technology Sydney"
+                },
+                {
+                        "name": "5.\tIndependent Researcher",
+                        "name_original": "5.\tIndependent Researcher",
+                        "name_simple": "5 \tIndependent Researcher"
+                },
+                {
+                        "name": ". Interstellar Foundation",
+                        "name_original": ". Interstellar Foundation",
+                        "name_simple": "  Interstellar Foundation 32 10th St, Johannesburg, Randburg, 2193, South Africa"
+                },
+                {
+                        "name": "SETI Institute",
+                        "name_original": "SETI Institute",
+                        "name_simple": "SETI Institute 339 N Bernardo Ave, Mountain View, CA 94043"
+                },
+                {
+                        "name": "Waseda University",
+                        "name_original": "Waseda University",
+                        "name_simple": "Waseda University"
+                },
+                {
+                        "name": "Jacobs NASA Johnson Space Center  Houston TX USA",
+                        "name_original": "Jacobs NASA Johnson Space Center  Houston TX USA",
+                        "name_simple": "Jacobs NASA Johnson Space Center  Houston TX USA"
+                },
+                {
+                        "name": "NASA Johnson Space Center  Houston TX USA",
+                        "name_original": "NASA Johnson Space Center  Houston TX USA",
+                        "name_simple": "NASA Johnson Space Center  Houston TX USA"
+                },
+                {
+                        "name": "Jet Propulsion Laboratory California Institution of Technology  Pasadena CA USA",
+                        "name_original": "Jet Propulsion Laboratory California Institution of Technology  Pasadena CA USA",
+                        "name_simple": "Jet Propulsion Laboratory California Institution of Technology  Pasadena CA USA"
+                },
+                {
+                        "name": "Impossible Sensing Incorporated  St. Louis MO USA",
+                        "name_original": "Impossible Sensing Incorporated  St. Louis MO USA",
+                        "name_simple": "Impossible Sensing Incorporated  St  Louis MO USA"
+                },
+                {
+                        "name": "Carnegie Institute of Washington  Washington DC USA",
+                        "name_original": "Carnegie Institute of Washington  Washington DC USA",
+                        "name_simple": "Carnegie Institute of Washington  Washington DC USA"
+                },
+                {
+                        "name": "Department of Earth and Planetary Sciences University of Tennessee  Knoxville TN USA",
+                        "name_original": "Department of Earth and Planetary Sciences University of Tennessee  Knoxville TN USA",
+                        "name_simple": "Department of Earth and Planetary Sciences University of Tennessee  Knoxville TN USA"
+                },
+                {
+                        "name": "Lunar &amp; Planetary Institute Universities Space Research Association  Houston TX USA",
+                        "name_original": "Lunar &amp; Planetary Institute Universities Space Research Association  Houston TX USA",
+                        "name_simple": "Lunar  amp  Planetary Institute Universities Space Research Association  Houston TX USA"
+                },
+                {
+                        "name": "Queensland University of Technology  Brisbane QLD Australia",
+                        "name_original": "Queensland University of Technology  Brisbane QLD Australia",
+                        "name_simple": "Queensland University of Technology  Brisbane QLD Australia"
+                },
+                {
+                        "name": "Department of Geography University of Winnipeg  Winnipeg MB Canada",
+                        "name_original": "Department of Geography University of Winnipeg  Winnipeg MB Canada",
+                        "name_simple": "Department of Geography University of Winnipeg  Winnipeg MB Canada"
+                },
+                {
+                        "name": "Texas State University Jacobs JETS NASA Johnson Space Center  Houston TX USA",
+                        "name_original": "Texas State University Jacobs JETS NASA Johnson Space Center  Houston TX USA",
+                        "name_simple": "Texas State University Jacobs JETS NASA Johnson Space Center  Houston TX USA"
+                },
+                {
+                        "name": "Formerly at Jet Propulsion Laboratory California Institution of Technology  Pasadena CA USA",
+                        "name_original": "Formerly at Jet Propulsion Laboratory California Institution of Technology  Pasadena CA USA",
+                        "name_simple": "Formerly at Jet Propulsion Laboratory California Institution of Technology  Pasadena CA USA"
+                },
+                {
+                        "name": "Framework  Silver Spring MD USA",
+                        "name_original": "Framework  Silver Spring MD USA",
+                        "name_simple": "Framework  Silver Spring MD USA"
+                },
+                {
+                        "name": "Photon Systems Incorporated  Covina CA USA",
+                        "name_original": "Photon Systems Incorporated  Covina CA USA",
+                        "name_simple": "Photon Systems Incorporated  Covina CA USA"
+                },
+                {
+                        "name": "Department of Chemistry University of Pittsburgh  Pittsburgh PA USA",
+                        "name_original": "Department of Chemistry University of Pittsburgh  Pittsburgh PA USA",
+                        "name_simple": "Department of Chemistry University of Pittsburgh  Pittsburgh PA USA"
+                },
+                {
+                        "name": "USRA  Columbia MD USA",
+                        "name_original": "USRA  Columbia MD USA",
+                        "name_simple": "USRA  Columbia MD USA"
+                },
+                {
+                        "name": "Department of Biology Oberlin College and Conservatory  Oberlin Ohio USA",
+                        "name_original": "Department of Biology Oberlin College and Conservatory  Oberlin Ohio USA",
+                        "name_simple": "Department of Biology Oberlin College and Conservatory  Oberlin Ohio USA"
+                },
+                {
+                        "name": "Department of Bacteriology University of Wisconsin--Madison  Madison Wisconsin USA",
+                        "name_original": "Department of Bacteriology University of Wisconsin--Madison  Madison Wisconsin USA",
+                        "name_simple": "Department of Bacteriology University of Wisconsin Madison  Madison Wisconsin USA"
+                },
+                {
+                        "name": "Graduate Institute of Environmental Engineering, National Central University, Taoyuan, 320 Taiwan, Republic of China",
+                        "name_original": "Graduate Institute of Environmental Engineering, National Central University, Taoyuan, 320 Taiwan, Republic of China",
+                        "name_simple": "Graduate Institute of Environmental Engineering  National Central University  Taoyuan  320 Taiwan  Republic of China"
+                },
+                {
+                        "name": "Earth-Life Science Institute, Tokyo Institute of Technology, Tokyo 152-8550, Japan",
+                        "name_original": "Earth-Life Science Institute, Tokyo Institute of Technology, Tokyo 152-8550, Japan",
+                        "name_simple": "Earth Life Science Institute  Tokyo Institute of Technology  Tokyo 152 8550  Japan"
+                },
+                {
+                        "name": "School of Life Science and Technology, Tokyo Institute of Technology, Tokyo 152-8550, Japan",
+                        "name_original": "School of Life Science and Technology, Tokyo Institute of Technology, Tokyo 152-8550, Japan",
+                        "name_simple": "School of Life Science and Technology  Tokyo Institute of Technology  Tokyo 152 8550  Japan"
+                },
+                {
+                        "name": "Blue Marble Space Institute of Science, Seattle, Washington, USA",
+                        "name_original": "Blue Marble Space Institute of Science, Seattle, Washington, USA",
+                        "name_simple": "Blue Marble Space Institute of Science  Seattle  Washington  USA"
+                },
+                {
+                        "name": "Centre for Environmental Biotechnology, School of Natural Sciences, Bangor University, Bangor, LL57 2UW, UK",
+                        "name_original": "Centre for Environmental Biotechnology, School of Natural Sciences, Bangor University, Bangor, LL57 2UW, UK",
+                        "name_simple": "Centre for Environmental Biotechnology  School of Natural Sciences  Bangor University  Bangor  LL57 2UW  UK"
+                },
+                {
+                        "name": "Graduate School of Media and Governance, Keio University, Fujisawa 252-0882, Japan",
+                        "name_original": "Graduate School of Media and Governance, Keio University, Fujisawa 252-0882, Japan",
+                        "name_simple": "Graduate School of Media and Governance  Keio University  Fujisawa 252 0882  Japan"
+                },
+                {
+                        "name": "Department of Chemical and Materials Engineering, National Central University, Taoyuan, 320 Taiwan, Republic of China",
+                        "name_original": "Department of Chemical and Materials Engineering, National Central University, Taoyuan, 320 Taiwan, Republic of China",
+                        "name_simple": "Department of Chemical and Materials Engineering  National Central University  Taoyuan  320 Taiwan  Republic of China"
+                },
+                {
+                        "name": "Information and Perception (TeCiP), Scuola Superiore Sant'Anna, Pisa, Italy",
+                        "name_original": "Information and Perception (TeCiP), Scuola Superiore Sant'Anna, Pisa, Italy",
+                        "name_simple": "Information and Perception  TeCiP  Scuola Superiore Sant'Anna  Pisa  Italy"
+                }
+        ]
+}

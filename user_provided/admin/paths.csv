@@ -1,0 +1,67 @@
+name,path
+
+# admin referenced
+ref_variable,user_provided admin ref_variable.csv
+
+# list_pubs created
+gscholar_json_scrape,program_generated gscholar_json scrape
+gscholar_json_summary,program_generated gscholar_json summary
+
+# meta_pubs created
+crossref_json,program_generated crossref_json
+missing_json,program_generated missing crossref_not_matched.json
+crossref_missing_affs,program_generated missing crossref_missing_affs.json
+crossref_with_affs,user_provided crossref_with_affs crossref_with_affs.json
+
+
+# geoloate_affs created
+affs_assigned,user_provided affs_assigned affs_assigned.json
+all_affs,program_generated affs all_affs.json
+all_located,program_generated affs all_located.json
+affs_json,program_generated affs
+located_compiled,program_generated affs all_located.json
+affs_missing,program_generated missing affs_missing.json
+
+# write_geojson created
+map_geojson,docs js geojson pubs.js
+map_js,docs js geojson
+
+# group_pubs referenced
+groups,user_provided admin groups
+grouped,program_generated grouped
+
+# build_table created
+tables_var,docs js tableData
+
+
+# contact_list created
+contact_list,program_generated contact_list contact_list.csv
+pubs_xlsx,program_generated contact_list 2022_Pubs_Contact_List.csv
+
+# write_html created
+html_temp,docs html_temp.html
+
+
+# build_json referenced
+src_csv,user_provided source_data
+
+# build_json create
+dst_json,program_generated json
+dst_df_data,program_generated df
+
+# build_scatter_record referenced
+json_compiled,program_generated json
+
+# parameterize_face created
+face_json,docs js_face faces.json
+face_js,docs js_face faces.js
+
+
+# write_html created
+canvas_html,docs html_temp canvas.html
+
+data
+paired_records,program_generated df paired_records.csv
+source_data,user_provided source_data
+
+dst_js,docs js

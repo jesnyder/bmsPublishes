@@ -1,0 +1,13 @@
+name,term
+study_types,HI$$$PMR
+ACC_unit,m/s2
+BVP_unit,s
+EDA_unit,μS
+HR_unit,HzS
+TEMP_unit,°C
+colorOrange,0.941176$$$0.3254$$$0.1372
+colorPurple,0.137254901961$$$0.10588235294$$$0.3764705882
+colorBlueDark,0$$$0.6$$$0.8470588
+colorBlueLight,0$$$0.737254$$$0.905882
+colorGray,0.9137254$$$0.882352941$$$0.87450980
+sensors,ACC$$$BVP$$$EDA$$$HR$$$TEMP
