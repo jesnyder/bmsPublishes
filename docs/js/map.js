@@ -47,15 +47,15 @@ var mapMaker = function functionMapMaker(setVars)
 		};
 
 		var overlays = {
-			'2022 Pubs': pubLayer,
-			'Adipose Pubs': adiposeLayer,
-			'Bone Pubs': boneLayer,
-			'Cells Pubs': cellsLayer,
-			'EV Boost Pubs': evboostLayer,
-			'Exosome Pubs': exosomeLayer,
-			'Media Pubs': mediaLayer,
+			//'2022 Pubs': pubLayer,
+			//'Adipose Pubs': adiposeLayer,
+			//'Bone Pubs': boneLayer,
+			//'Cells Pubs': cellsLayer,
+			//'EV Boost Pubs': evboostLayer,
+			//'Exosome Pubs': exosomeLayer,
+			//'Media Pubs': mediaLayer,
 			//'Thesis Pubs': thesisLayer,
-			'Umbilical Cord Pubs': umbilical_cordLayer,
+			//'Umbilical Cord Pubs': umbilical_cordLayer,
 			//'Background': background
 		};
 
