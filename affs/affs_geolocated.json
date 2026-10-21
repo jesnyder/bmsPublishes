@@ -1,5 +1,5 @@
 {
-  "count": 859,
+  "count": 864,
   "affs": [
     {
       "name_original": "Blue Marble Space Institute of Science",
@@ -65,7 +65,7 @@
       "display_name": "Ames Research Center, North Whisman Road, Mountain View, Santa Clara County, California, 94035, United States",
       "osm_type": "research_institute",
       "class": "",
-      "unique_papers": 28
+      "unique_papers": 29
     },
     {
       "name_original": "NASA Goddard Space Flight Center",
@@ -362,7 +362,7 @@
       "display_name": "Ames Research Center, North Whisman Road, Mountain View, Santa Clara County, California, 94035, United States",
       "osm_type": "research_institute",
       "class": "",
-      "unique_papers": 28
+      "unique_papers": 29
     },
     {
       "name_original": "NASA Jet Propulsion Laboratory, California Institute of Technology, Pasadena, California, USA.",
@@ -516,7 +516,7 @@
       "display_name": "Ames Research Center, North Whisman Road, Mountain View, Santa Clara County, California, 94035, United States",
       "osm_type": "research_institute",
       "class": "",
-      "unique_papers": 28
+      "unique_papers": 29
     },
     {
       "name_original": "The Natural History Museum  London UK",
@@ -835,7 +835,7 @@
       "display_name": "NW12 Nuclear Reactor Lab, 138, Albany Street, Cambridgeport, Cambridge, Middlesex County, Massachusetts, 02139, United States",
       "osm_type": "university",
       "class": "",
-      "unique_papers": 4
+      "unique_papers": 5
     },
     {
       "name_original": "NASA",
@@ -1627,7 +1627,7 @@
       "display_name": "Goddard Space Flight Center, 8800, Greenbelt Road, Greenbelt, Prince George's County, Maryland, 20771, United States",
       "osm_type": "research_institute",
       "class": "",
-      "unique_papers": 3
+      "unique_papers": 4
     },
     {
       "name_original": "NASA Goddard",
@@ -4578,6 +4578,17 @@
       "unique_papers": 1
     },
     {
+      "name_original": "Coursera  Mountain View CA USA",
+      "name_ref": "Coursera  Mountain View CA USA",
+      "count": 1,
+      "lat": "37.3868266",
+      "lon": "-122.0608500",
+      "display_name": "Coursera, 381, East Evelyn Avenue, Mountain View Corporate Center, Mountain View, Santa Clara County, California, 94041, United States",
+      "osm_type": "it",
+      "class": "",
+      "unique_papers": 1
+    },
+    {
       "name_original": "Cranfield University",
       "name_ref": "Cranfield University",
       "count": 1,
@@ -5103,7 +5114,7 @@
       "display_name": "Georgia Tech, Atlantic Drive Northwest, Home Park, Atlanta, Fulton County, Georgia, 30332, United States",
       "osm_type": "university",
       "class": "",
-      "unique_papers": 1
+      "unique_papers": 2
     },
     {
       "name_original": "Goddard Earth Sciences Technology and Research (GESTAR), Universities Space Research Association Columbia MD USA",
@@ -6019,6 +6030,17 @@
       "unique_papers": 1
     },
     {
+      "name_original": "MEI",
+      "name_ref": "MEI",
+      "count": 1,
+      "lat": "24.4146228",
+      "lon": "116.2342558",
+      "display_name": "梅县区, 梅州市, 广东省, 中国",
+      "osm_type": "administrative",
+      "class": "",
+      "unique_papers": 1
+    },
+    {
       "name_original": "MEI Technologies, NASA Johnson Space Center, Houston, Texas, United States",
       "name_ref": "2101 E NASA Pkwy, Houston, TX 77058",
       "count": 1,
@@ -6280,7 +6302,7 @@
       "display_name": "Ames Research Center, Moffett Boulevard, Mountain View, Santa Clara County, California, 94035, United States",
       "osm_type": "research_institute",
       "class": "",
-      "unique_papers": 1
+      "unique_papers": 2
     },
     {
       "name_original": "NASA Goddard Institute for Space Studies (GISS), New York, New York, USA.",
@@ -6895,6 +6917,17 @@
       "lon": "-123.2839234",
       "display_name": "Oregon State University, 1500, Southwest Jefferson Way, Corvallis, Benton County, Oregon, 97331, United States",
       "osm_type": "university",
+      "class": "",
+      "unique_papers": 1
+    },
+    {
+      "name_original": "PSI",
+      "name_ref": "PSI",
+      "count": 1,
+      "lat": "29.7276575",
+      "lon": "67.4852726",
+      "display_name": "پیشی, تحصیل مچھ, ضلع کچّھی, نصیرآباد ڈویژن, بلوچستان, پاکستان",
+      "osm_type": "station",
       "class": "",
       "unique_papers": 1
     },
@@ -7823,6 +7856,17 @@
       "unique_papers": 1
     },
     {
+      "name_original": "UMCP",
+      "name_ref": "UMCP",
+      "count": 1,
+      "lat": "38.9858366",
+      "lon": "-76.9356050",
+      "display_name": "UMCP CHP Plant, 7743, Baltimore Avenue, Lakeland, College Park, Prince George's County, Maryland, 20742, United States",
+      "osm_type": "yes",
+      "class": "",
+      "unique_papers": 1
+    },
+    {
       "name_original": "US Geological Survey",
       "name_ref": "US Geological Survey",
       "count": 1,
@@ -7852,6 +7896,17 @@
       "lon": "-155.2351293",
       "display_name": "19-4178, Wright Road, Mauna Loa Estates, Volcano, Hawaiʻi County, Hawaii, 96770, United States",
       "osm_type": "yes",
+      "class": "",
+      "unique_papers": 1
+    },
+    {
+      "name_original": "USRA",
+      "name_ref": "USRA",
+      "count": 1,
+      "lat": "52.0312754",
+      "lon": "-0.7982559",
+      "display_name": "USRA, 19, Darin Court, Crownhill, Shenley Church End, Wolverton, Milton Keynes, City of Milton Keynes, England, MK8 0AD, United Kingdom",
+      "osm_type": "fast_food",
       "class": "",
       "unique_papers": 1
     },

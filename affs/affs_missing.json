@@ -1,5 +1,5 @@
 {
-  "count": 2207,
+  "count": 2215,
   "affs": [
     {
       "name_original": "Earth, Planetary, and Space Sciences, University of California, Los Angeles, California, USA.",
@@ -1358,6 +1358,12 @@
       "unique_papers": 1
     },
     {
+      "name_original": "APL/UW",
+      "name_ref": "APL/UW",
+      "count": 1,
+      "unique_papers": 1
+    },
+    {
       "name_original": "ARC Centre of Excellence for All-Sky Astrophysics in 3 Dimensions (ASTRO 3D)",
       "name_ref": "ARC Centre of Excellence for All-Sky Astrophysics in 3 Dimensions (ASTRO 3D)",
       "count": 1,
@@ -1664,6 +1670,12 @@
       "unique_papers": 1
     },
     {
+      "name_original": "BMSIS",
+      "name_ref": "BMSIS",
+      "count": 1,
+      "unique_papers": 1
+    },
+    {
       "name_original": "BMSIS NASA Ames",
       "name_ref": "BMSIS NASA Ames",
       "count": 1,
@@ -1672,6 +1684,12 @@
     {
       "name_original": "BMSIS at NASA Ames Research Center  Moffet Field CA USA",
       "name_ref": "BMSIS at NASA Ames Research Center  Moffet Field CA USA",
+      "count": 1,
+      "unique_papers": 1
+    },
+    {
+      "name_original": "BMSIS at NASA Ames Research Center  Mountain View CA USA",
+      "name_ref": "BMSIS at NASA Ames Research Center  Mountain View CA USA",
       "count": 1,
       "unique_papers": 1
     },
@@ -5060,6 +5078,12 @@
       "unique_papers": 1
     },
     {
+      "name_original": "Department of Earth and Planetary Sciences University of California—Santa Cruz  Santa Cruz CA USA",
+      "name_ref": "Department of Earth and Planetary Sciences University of California—Santa Cruz  Santa Cruz CA USA",
+      "count": 1,
+      "unique_papers": 1
+    },
+    {
       "name_original": "Department of Earth and Planetary Sciences, Birkbeck University of London, London, United Kingdom.",
       "name_ref": "Department of Earth and Planetary Sciences, Birkbeck University of London, London, United Kingdom.",
       "count": 1,
@@ -8270,6 +8294,12 @@
       "unique_papers": 1
     },
     {
+      "name_original": "IRSPS",
+      "name_ref": "IRSPS",
+      "count": 1,
+      "unique_papers": 1
+    },
+    {
       "name_original": "ISA, Iceland Space Agency, 101 Reykjavik, Iceland",
       "name_ref": "ISA, Iceland Space Agency, 101 Reykjavik, Iceland",
       "count": 1,
@@ -8290,6 +8320,12 @@
     {
       "name_original": "Idaho State University, Department of Geosciences",
       "name_ref": "Idaho State University, Department of Geosciences",
+      "count": 1,
+      "unique_papers": 1
+    },
+    {
+      "name_original": "Impossible Sensing",
+      "name_ref": "Impossible Sensing",
       "count": 1,
       "unique_papers": 1
     },
@@ -9884,8 +9920,20 @@
       "unique_papers": 1
     },
     {
+      "name_original": "NASA ARC/BMSIS",
+      "name_ref": "NASA ARC/BMSIS",
+      "count": 1,
+      "unique_papers": 1
+    },
+    {
       "name_original": "NASA ARC/SETI Institute",
       "name_ref": "NASA ARC/SETI Institute",
+      "count": 1,
+      "unique_papers": 1
+    },
+    {
+      "name_original": "NASA ARC/SGT",
+      "name_ref": "NASA ARC/SGT",
       "count": 1,
       "unique_papers": 1
     },

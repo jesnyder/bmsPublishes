@@ -1,5 +1,5 @@
 {
-  "count": 3066,
+  "count": 3079,
   "affs": [
     {
       "name_original": "Blue Marble Space Institute of Science",
@@ -22,13 +22,13 @@
       "count": 20
     },
     {
-      "name_original": "Blue Marble Space Institute of Science, Seattle, WA 98104, USA",
-      "name_ref": "600 1st Avenue, Seattle, Washington 98104",
-      "count": 17
-    },
-    {
       "name_original": "NASA Ames Research Center",
       "name_ref": "37.415488, -122.056849",
+      "count": 18
+    },
+    {
+      "name_original": "Blue Marble Space Institute of Science, Seattle, WA 98104, USA",
+      "name_ref": "600 1st Avenue, Seattle, Washington 98104",
       "count": 17
     },
     {
@@ -222,6 +222,11 @@
       "count": 5
     },
     {
+      "name_original": "MIT",
+      "name_ref": "42.360091,-71.0967403",
+      "count": 5
+    },
+    {
       "name_original": "Mineral Sciences, Los Angeles Natural History Museum, Los Angeles, California, USA.",
       "name_ref": "34.0171448,-118.2912438",
       "count": 5
@@ -377,13 +382,13 @@
       "count": 4
     },
     {
-      "name_original": "MIT",
-      "name_ref": "42.360091,-71.0967403",
+      "name_original": "NASA",
+      "name_ref": "NASA",
       "count": 4
     },
     {
-      "name_original": "NASA",
-      "name_ref": "NASA",
+      "name_original": "NASA GSFC",
+      "name_ref": "NASA GSFC",
       "count": 4
     },
     {
@@ -824,11 +829,6 @@
     {
       "name_original": "NASA Ames Research Center, Mountain View, California, USA.",
       "name_ref": "37.4124551,-122.0669169",
-      "count": 3
-    },
-    {
-      "name_original": "NASA GSFC",
-      "name_ref": "NASA GSFC",
       "count": 3
     },
     {
@@ -1722,6 +1722,11 @@
       "count": 2
     },
     {
+      "name_original": "Georgia Tech",
+      "name_ref": "Georgia Tech",
+      "count": 2
+    },
+    {
       "name_original": "German Aerospace Center",
       "name_ref": "German Aerospace Center",
       "count": 2
@@ -1984,6 +1989,11 @@
     {
       "name_original": "Montana State University",
       "name_ref": "Montana State University",
+      "count": 2
+    },
+    {
+      "name_original": "NASA ARC",
+      "name_ref": "NASA ARC",
       "count": 2
     },
     {
@@ -2557,6 +2567,11 @@
       "count": 1
     },
     {
+      "name_original": "APL/UW",
+      "name_ref": "APL/UW",
+      "count": 1
+    },
+    {
       "name_original": "ARC Centre of Excellence for All-Sky Astrophysics in 3 Dimensions (ASTRO 3D)",
       "name_ref": "ARC Centre of Excellence for All-Sky Astrophysics in 3 Dimensions (ASTRO 3D)",
       "count": 1
@@ -2972,6 +2987,11 @@
       "count": 1
     },
     {
+      "name_original": "BMSIS",
+      "name_ref": "BMSIS",
+      "count": 1
+    },
+    {
       "name_original": "BMSIS NASA Ames",
       "name_ref": "BMSIS NASA Ames",
       "count": 1
@@ -2979,6 +2999,11 @@
     {
       "name_original": "BMSIS at NASA Ames Research Center  Moffet Field CA USA",
       "name_ref": "BMSIS at NASA Ames Research Center  Moffet Field CA USA",
+      "count": 1
+    },
+    {
+      "name_original": "BMSIS at NASA Ames Research Center  Mountain View CA USA",
+      "name_ref": "BMSIS at NASA Ames Research Center  Mountain View CA USA",
       "count": 1
     },
     {
@@ -4797,6 +4822,11 @@
       "count": 1
     },
     {
+      "name_original": "Coursera  Mountain View CA USA",
+      "name_ref": "Coursera  Mountain View CA USA",
+      "count": 1
+    },
+    {
       "name_original": "Cranfield University",
       "name_ref": "Cranfield University",
       "count": 1
@@ -6329,6 +6359,11 @@
     {
       "name_original": "Department of Earth and Planetary Sciences University of California Riverside CA USA",
       "name_ref": "Department of Earth and Planetary Sciences University of California Riverside CA USA",
+      "count": 1
+    },
+    {
+      "name_original": "Department of Earth and Planetary Sciences University of California—Santa Cruz  Santa Cruz CA USA",
+      "name_ref": "Department of Earth and Planetary Sciences University of California—Santa Cruz  Santa Cruz CA USA",
       "count": 1
     },
     {
@@ -8932,11 +8967,6 @@
       "count": 1
     },
     {
-      "name_original": "Georgia Tech",
-      "name_ref": "Georgia Tech",
-      "count": 1
-    },
-    {
       "name_original": "Georgia Tech Research Institute (GTRI), Georgia Institute of Technology, Atlanta, Georgia 30332, United States",
       "name_ref": "Georgia Tech Research Institute (GTRI), Georgia Institute of Technology, Atlanta, Georgia 30332, United States",
       "count": 1
@@ -9312,6 +9342,11 @@
       "count": 1
     },
     {
+      "name_original": "IRSPS",
+      "name_ref": "IRSPS",
+      "count": 1
+    },
+    {
       "name_original": "ISA, Iceland Space Agency, 101 Reykjavik, Iceland",
       "name_ref": "ISA, Iceland Space Agency, 101 Reykjavik, Iceland",
       "count": 1
@@ -9339,6 +9374,11 @@
     {
       "name_original": "Imperial College London, London, UK.",
       "name_ref": "Imperial College London, London, UK.",
+      "count": 1
+    },
+    {
+      "name_original": "Impossible Sensing",
+      "name_ref": "Impossible Sensing",
       "count": 1
     },
     {
@@ -10707,6 +10747,11 @@
       "count": 1
     },
     {
+      "name_original": "MEI",
+      "name_ref": "MEI",
+      "count": 1
+    },
+    {
       "name_original": "MEI Technologies, NASA Johnson Space Center, Houston, Texas, United States",
       "name_ref": "2101 E NASA Pkwy, Houston, TX 77058",
       "count": 1
@@ -11057,13 +11102,18 @@
       "count": 1
     },
     {
-      "name_original": "NASA ARC",
-      "name_ref": "NASA ARC",
+      "name_original": "NASA ARC/BMSIS",
+      "name_ref": "NASA ARC/BMSIS",
       "count": 1
     },
     {
       "name_original": "NASA ARC/SETI Institute",
       "name_ref": "NASA ARC/SETI Institute",
+      "count": 1
+    },
+    {
+      "name_original": "NASA ARC/SGT",
+      "name_ref": "NASA ARC/SGT",
       "count": 1
     },
     {
@@ -11979,6 +12029,11 @@
     {
       "name_original": "Oxford Nanopore Technologies Inc.",
       "name_ref": "Oxford Nanopore Technologies Inc.",
+      "count": 1
+    },
+    {
+      "name_original": "PSI",
+      "name_ref": "PSI",
       "count": 1
     },
     {
@@ -14132,6 +14187,11 @@
       "count": 1
     },
     {
+      "name_original": "UMCP",
+      "name_ref": "UMCP",
+      "count": 1
+    },
+    {
       "name_original": "UNSW RNA Institute, UNSW Sydney, Sydney, NSW 2052, Australia",
       "name_ref": "UNSW RNA Institute, UNSW Sydney, Sydney, NSW 2052, Australia",
       "count": 1
@@ -14159,6 +14219,11 @@
     {
       "name_original": "USGS Hawaii Volcano Observatory",
       "name_ref": "19.4424663,-155.2354463",
+      "count": 1
+    },
+    {
+      "name_original": "USRA",
+      "name_ref": "USRA",
       "count": 1
     },
     {

@@ -1,5 +1,5 @@
 {
-  "count": 3263,
+  "count": 3287,
   "terms": [
     {
       "term": "Jia, Tony Z.",
@@ -30,16 +30,16 @@
       "count": 15
     },
     {
+      "term": "Blank, Jennifer G.",
+      "count": 14
+    },
+    {
       "term": "McGlynn, Shawn E.",
       "count": 14
     },
     {
       "term": "Perl, Scott M.",
       "count": 14
-    },
-    {
-      "term": "Blank, Jennifer G.",
-      "count": 13
     },
     {
       "term": "Shkolyar, Svetlana",
@@ -146,6 +146,10 @@
       "count": 8
     },
     {
+      "term": "Wilhelm, Mary Beth",
+      "count": 8
+    },
+    {
       "term": "Wong, Michael L.",
       "count": 8
     },
@@ -218,10 +222,6 @@
       "count": 7
     },
     {
-      "term": "Wilhelm, Mary Beth",
-      "count": 7
-    },
-    {
       "term": "Blank, Jennifer",
       "count": 6
     },
@@ -231,6 +231,10 @@
     },
     {
       "term": "Brazelton, William J.",
+      "count": 6
+    },
+    {
+      "term": "Buckner, Denise",
       "count": 6
     },
     {
@@ -358,10 +362,6 @@
       "count": 5
     },
     {
-      "term": "Buckner, Denise",
-      "count": 5
-    },
-    {
       "term": "Carr, Christopher E.",
       "count": 5
     },
@@ -419,6 +419,10 @@
     },
     {
       "term": "Herd, C. D. K.",
+      "count": 5
+    },
+    {
+      "term": "Jahnke, Linda",
       "count": 5
     },
     {
@@ -622,6 +626,10 @@
       "count": 4
     },
     {
+      "term": "Eigenbrode, Jennifer",
+      "count": 4
+    },
+    {
       "term": "Fairén, A. G.",
       "count": 4
     },
@@ -683,10 +691,6 @@
     },
     {
       "term": "Hudson, Reuben",
-      "count": 4
-    },
-    {
-      "term": "Jahnke, Linda",
       "count": 4
     },
     {
@@ -763,6 +767,10 @@
     },
     {
       "term": "Neveu, Marc",
+      "count": 4
+    },
+    {
+      "term": "Nuevo, Michel",
       "count": 4
     },
     {
@@ -1078,10 +1086,6 @@
       "count": 3
     },
     {
-      "term": "Eigenbrode, Jennifer",
-      "count": 3
-    },
-    {
       "term": "Fairén, Alberto G.",
       "count": 3
     },
@@ -1302,6 +1306,10 @@
       "count": 3
     },
     {
+      "term": "Mahaffy, Paul",
+      "count": 3
+    },
+    {
       "term": "Maki, Justin",
       "count": 3
     },
@@ -1350,10 +1358,6 @@
       "count": 3
     },
     {
-      "term": "Nuevo, Michel",
-      "count": 3
-    },
-    {
       "term": "Pandey, Siddharth",
       "count": 3
     },
@@ -1379,6 +1383,10 @@
     },
     {
       "term": "Reed, Nathan W.",
+      "count": 3
+    },
+    {
+      "term": "Ricco, Antonio",
       "count": 3
     },
     {
@@ -1447,6 +1455,10 @@
     },
     {
       "term": "Sinhadc, Pritvik",
+      "count": 3
+    },
+    {
+      "term": "Sobron, Pablo",
       "count": 3
     },
     {
@@ -1574,6 +1586,10 @@
       "count": 2
     },
     {
+      "term": "Anderson, Morgan J.",
+      "count": 2
+    },
+    {
       "term": "Anglés, Angélica",
       "count": 2
     },
@@ -1651,6 +1667,10 @@
     },
     {
       "term": "Berger, E. L.",
+      "count": 2
+    },
+    {
+      "term": "Berlanga, Genesis",
       "count": 2
     },
     {
@@ -2022,6 +2042,10 @@
       "count": 2
     },
     {
+      "term": "Ditzler, Mark",
+      "count": 2
+    },
+    {
       "term": "Ditzler, Mark A",
       "count": 2
     },
@@ -2107,6 +2131,10 @@
     },
     {
       "term": "Fridmann‐Sirkis, Yael",
+      "count": 2
+    },
+    {
+      "term": "Friend, Lauren",
       "count": 2
     },
     {
@@ -2287,6 +2315,10 @@
     },
     {
       "term": "Hickman‐Lewis, Keyron",
+      "count": 2
+    },
+    {
+      "term": "Hoac, Trinh",
       "count": 2
     },
     {
@@ -2662,10 +2694,6 @@
       "count": 2
     },
     {
-      "term": "Mahaffy, Paul",
-      "count": 2
-    },
-    {
       "term": "Malaska, Mike",
       "count": 2
     },
@@ -3034,6 +3062,10 @@
       "count": 2
     },
     {
+      "term": "Radosevich, Leslie",
+      "count": 2
+    },
+    {
       "term": "Rainwater, J. Hank",
       "count": 2
     },
@@ -3063,10 +3095,6 @@
     },
     {
       "term": "Reagan, Mark K.",
-      "count": 2
-    },
-    {
-      "term": "Ricco, Antonio",
       "count": 2
     },
     {
@@ -3279,10 +3307,6 @@
     },
     {
       "term": "Smith, Rebecca J.",
-      "count": 2
-    },
-    {
-      "term": "Sobron, Pablo",
       "count": 2
     },
     {
@@ -3846,10 +3870,6 @@
       "count": 1
     },
     {
-      "term": "Anderson, Morgan J.",
-      "count": 1
-    },
-    {
       "term": "Anderson, R. E.",
       "count": 1
     },
@@ -4023,6 +4043,10 @@
     },
     {
       "term": "Bahcivan, Ilknur",
+      "count": 1
+    },
+    {
+      "term": "Baird, Spencer",
       "count": 1
     },
     {
@@ -4266,10 +4290,6 @@
       "count": 1
     },
     {
-      "term": "Berlanga, Genesis",
-      "count": 1
-    },
-    {
       "term": "Berliner, Aaron J.",
       "count": 1
     },
@@ -4303,6 +4323,10 @@
     },
     {
       "term": "Bhat, Aadya",
+      "count": 1
+    },
+    {
+      "term": "Bicay, Michael",
       "count": 1
     },
     {
@@ -4418,7 +4442,15 @@
       "count": 1
     },
     {
+      "term": "Bookbinder, Jay",
+      "count": 1
+    },
+    {
       "term": "Boone, Spencer",
+      "count": 1
+    },
+    {
+      "term": "Boone, Travis",
       "count": 1
     },
     {
@@ -5063,6 +5095,14 @@
     },
     {
       "term": "Chin, Keith B.",
+      "count": 1
+    },
+    {
+      "term": "Chin, Matthew",
+      "count": 1
+    },
+    {
+      "term": "Chinn, Tori",
       "count": 1
     },
     {
@@ -5718,10 +5758,6 @@
       "count": 1
     },
     {
-      "term": "Ditzler, Mark",
-      "count": 1
-    },
-    {
       "term": "Dixit, Anushri",
       "count": 1
     },
@@ -6050,11 +6086,19 @@
       "count": 1
     },
     {
+      "term": "Eshelman, Evan",
+      "count": 1
+    },
+    {
       "term": "Estlin, Tara A.",
       "count": 1
     },
     {
       "term": "Etheredge, Rachel",
+      "count": 1
+    },
+    {
+      "term": "Evans, Thomas",
       "count": 1
     },
     {
@@ -6282,6 +6326,10 @@
       "count": 1
     },
     {
+      "term": "Fong, Terry",
+      "count": 1
+    },
+    {
       "term": "Foote, Searra",
       "count": 1
     },
@@ -6374,10 +6422,6 @@
       "count": 1
     },
     {
-      "term": "Friend, Lauren",
-      "count": 1
-    },
-    {
       "term": "Frizzell, Eric",
       "count": 1
     },
@@ -6419,6 +6463,10 @@
     },
     {
       "term": "Fumagalli, Laura",
+      "count": 1
+    },
+    {
+      "term": "Furlong, P. Michael",
       "count": 1
     },
     {
@@ -7226,10 +7274,6 @@
       "count": 1
     },
     {
-      "term": "Hoac, Trinh",
-      "count": 1
-    },
-    {
       "term": "Hoban-Higgins, Tana M.",
       "count": 1
     },
@@ -8022,6 +8066,10 @@
       "count": 1
     },
     {
+      "term": "Koehne, Jessica",
+      "count": 1
+    },
+    {
       "term": "Koeppel, A.H.D.",
       "count": 1
     },
@@ -8031,6 +8079,10 @@
     },
     {
       "term": "Kokori, Anastasia",
+      "count": 1
+    },
+    {
+      "term": "Komatsu, Goro",
       "count": 1
     },
     {
@@ -8786,6 +8838,10 @@
       "count": 1
     },
     {
+      "term": "Marais, Dave Des",
+      "count": 1
+    },
+    {
       "term": "Marais, David Des",
       "count": 1
     },
@@ -8939,6 +8995,10 @@
     },
     {
       "term": "McCann, Brennan",
+      "count": 1
+    },
+    {
+      "term": "McClure, Thomas",
       "count": 1
     },
     {
@@ -9434,6 +9494,10 @@
       "count": 1
     },
     {
+      "term": "Nawaz, Anuscheh",
+      "count": 1
+    },
+    {
       "term": "Neish, Catherine D.",
       "count": 1
     },
@@ -9599,6 +9663,10 @@
     },
     {
       "term": "Odenheimer, A.",
+      "count": 1
+    },
+    {
+      "term": "Oehler, Dorothy",
       "count": 1
     },
     {
@@ -10302,11 +10370,11 @@
       "count": 1
     },
     {
-      "term": "Rader, Erika",
+      "term": "Rademacher, Abraham",
       "count": 1
     },
     {
-      "term": "Radosevich, Leslie",
+      "term": "Rader, Erika",
       "count": 1
     },
     {
@@ -10603,6 +10671,10 @@
     },
     {
       "term": "Rodriguez Sanchez-Vahamonde, Carolina",
+      "count": 1
+    },
+    {
+      "term": "Rodriguez, Alexis",
       "count": 1
     },
     {
@@ -11402,6 +11474,10 @@
       "count": 1
     },
     {
+      "term": "Smith, Trey",
+      "count": 1
+    },
+    {
       "term": "Smith, William",
       "count": 1
     },
@@ -11486,6 +11562,10 @@
       "count": 1
     },
     {
+      "term": "Southard, Adrian",
+      "count": 1
+    },
+    {
       "term": "Spanovich, N.",
       "count": 1
     },
@@ -11507,6 +11587,10 @@
     },
     {
       "term": "Squire, Jonathan",
+      "count": 1
+    },
+    {
+      "term": "Sridhar, Kanch",
       "count": 1
     },
     {
@@ -11863,6 +11947,10 @@
     },
     {
       "term": "Teichman, Sarah",
+      "count": 1
+    },
+    {
+      "term": "Temiquel, Nathan",
       "count": 1
     },
     {
@@ -12614,11 +12702,19 @@
       "count": 1
     },
     {
+      "term": "Williams, Quentin",
+      "count": 1
+    },
+    {
       "term": "Williams, Rebecca M. E.",
       "count": 1
     },
     {
       "term": "Williams, Ross",
+      "count": 1
+    },
+    {
+      "term": "Williams, Ross H.",
       "count": 1
     },
     {

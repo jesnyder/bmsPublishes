@@ -1,12 +1,20 @@
 {
-  "count": 26,
+  "count": 34,
   "terms": [
     {
       "term": "Blue Marble Space",
       "count": 496
     },
     {
+      "term": "nasa",
+      "count": 202
+    },
+    {
       "term": "extant life",
+      "count": 81
+    },
+    {
+      "term": "origins of life",
       "count": 81
     },
     {
@@ -15,7 +23,11 @@
     },
     {
       "term": "life detection",
-      "count": 74
+      "count": 77
+    },
+    {
+      "term": "life support",
+      "count": 77
     },
     {
       "term": "astronomy",
@@ -38,6 +50,10 @@
       "count": 28
     },
     {
+      "term": "lunar",
+      "count": 25
+    },
+    {
       "term": "ancient delta-lake system",
       "count": 22
     },
@@ -46,8 +62,20 @@
       "count": 20
     },
     {
+      "term": "molecular evolution",
+      "count": 20
+    },
+    {
+      "term": "metabolic evolution",
+      "count": 18
+    },
+    {
       "term": "geochemistry",
       "count": 16
+    },
+    {
+      "term": "oceanography",
+      "count": 13
     },
     {
       "term": "ames research center",
@@ -71,6 +99,10 @@
     },
     {
       "term": "Blue Marble Space Institute of Science",
+      "count": 5
+    },
+    {
+      "term": "Mars",
       "count": 5
     },
     {

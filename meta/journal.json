@@ -6,12 +6,12 @@
       "count": 59
     },
     {
-      "term": "Proceedings of the National Academy of Sciences",
+      "term": "Bulletin of the AAS",
       "count": 21
     },
     {
-      "term": "Bulletin of the AAS",
-      "count": 20
+      "term": "Proceedings of the National Academy of Sciences",
+      "count": 21
     },
     {
       "term": "Life",
@@ -58,6 +58,10 @@
       "count": 6
     },
     {
+      "term": "Earth and Space Science",
+      "count": 5
+    },
+    {
       "term": "Geobiology",
       "count": 5
     },
@@ -76,10 +80,6 @@
     {
       "term": "Universe",
       "count": 5
-    },
-    {
-      "term": "Earth and Space Science",
-      "count": 4
     },
     {
       "term": "Environmental Microbiology",

@@ -1,5 +1,5 @@
 {
-  "count": 3060,
+  "count": 3073,
   "affs": [
     {
       "name": "Blue Marble Space Institute of Science",
@@ -18,11 +18,11 @@
       "count": 20
     },
     {
-      "name": "Blue Marble Space Institute of Science, Seattle, WA 98104, USA",
-      "count": 17
+      "name": "NASA Ames Research Center",
+      "count": 18
     },
     {
-      "name": "NASA Ames Research Center",
+      "name": "Blue Marble Space Institute of Science, Seattle, WA 98104, USA",
       "count": 17
     },
     {
@@ -178,6 +178,10 @@
       "count": 5
     },
     {
+      "name": "MIT",
+      "count": 5
+    },
+    {
       "name": "Mineral Sciences, Los Angeles Natural History Museum, Los Angeles, California, USA.",
       "count": 5
     },
@@ -302,11 +306,11 @@
       "count": 4
     },
     {
-      "name": "MIT",
+      "name": "NASA",
       "count": 4
     },
     {
-      "name": "NASA",
+      "name": "NASA GSFC",
       "count": 4
     },
     {
@@ -659,10 +663,6 @@
     },
     {
       "name": "NASA Ames Research Center, Mountain View, California, USA.",
-      "count": 3
-    },
-    {
-      "name": "NASA GSFC",
       "count": 3
     },
     {
@@ -1378,6 +1378,10 @@
       "count": 2
     },
     {
+      "name": "Georgia Tech",
+      "count": 2
+    },
+    {
       "name": "German Aerospace Center",
       "count": 2
     },
@@ -1587,6 +1591,10 @@
     },
     {
       "name": "Montana State University",
+      "count": 2
+    },
+    {
+      "name": "NASA ARC",
       "count": 2
     },
     {
@@ -2046,6 +2054,10 @@
       "count": 1
     },
     {
+      "name": "APL/UW",
+      "count": 1
+    },
+    {
       "name": "ARC Centre of Excellence for All-Sky Astrophysics in 3 Dimensions (ASTRO 3D)",
       "count": 1
     },
@@ -2378,11 +2390,19 @@
       "count": 1
     },
     {
+      "name": "BMSIS",
+      "count": 1
+    },
+    {
       "name": "BMSIS NASA Ames",
       "count": 1
     },
     {
       "name": "BMSIS at NASA Ames Research Center  Moffet Field CA USA",
+      "count": 1
+    },
+    {
+      "name": "BMSIS at NASA Ames Research Center  Mountain View CA USA",
       "count": 1
     },
     {
@@ -3838,6 +3858,10 @@
       "count": 1
     },
     {
+      "name": "Coursera  Mountain View CA USA",
+      "count": 1
+    },
+    {
       "name": "Cranfield University",
       "count": 1
     },
@@ -5063,6 +5087,10 @@
     },
     {
       "name": "Department of Earth and Planetary Sciences University of California Riverside CA USA",
+      "count": 1
+    },
+    {
+      "name": "Department of Earth and Planetary Sciences University of California—Santa Cruz  Santa Cruz CA USA",
       "count": 1
     },
     {
@@ -7146,10 +7174,6 @@
       "count": 1
     },
     {
-      "name": "Georgia Tech",
-      "count": 1
-    },
-    {
       "name": "Georgia Tech Research Institute (GTRI), Georgia Institute of Technology, Atlanta, Georgia 30332, United States",
       "count": 1
     },
@@ -7450,6 +7474,10 @@
       "count": 1
     },
     {
+      "name": "IRSPS",
+      "count": 1
+    },
+    {
       "name": "ISA, Iceland Space Agency, 101 Reykjavik, Iceland",
       "count": 1
     },
@@ -7471,6 +7499,10 @@
     },
     {
       "name": "Imperial College London, London, UK.",
+      "count": 1
+    },
+    {
+      "name": "Impossible Sensing",
       "count": 1
     },
     {
@@ -8566,6 +8598,10 @@
       "count": 1
     },
     {
+      "name": "MEI",
+      "count": 1
+    },
+    {
       "name": "MEI Technologies, NASA Johnson Space Center, Houston, Texas, United States",
       "count": 1
     },
@@ -8846,11 +8882,15 @@
       "count": 1
     },
     {
-      "name": "NASA ARC",
+      "name": "NASA ARC/BMSIS",
       "count": 1
     },
     {
       "name": "NASA ARC/SETI Institute",
+      "count": 1
+    },
+    {
+      "name": "NASA ARC/SGT",
       "count": 1
     },
     {
@@ -9583,6 +9623,10 @@
     },
     {
       "name": "Oxford Nanopore Technologies Inc.",
+      "count": 1
+    },
+    {
+      "name": "PSI",
       "count": 1
     },
     {
@@ -11306,6 +11350,10 @@
       "count": 1
     },
     {
+      "name": "UMCP",
+      "count": 1
+    },
+    {
       "name": "UNSW RNA Institute, UNSW Sydney, Sydney, NSW 2052, Australia",
       "count": 1
     },
@@ -11327,6 +11375,10 @@
     },
     {
       "name": "USGS Hawaii Volcano Observatory",
+      "count": 1
+    },
+    {
+      "name": "USRA",
       "count": 1
     },
     {
