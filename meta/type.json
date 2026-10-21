@@ -1,0 +1,29 @@
+{
+  "count": 6,
+  "terms": [
+    {
+      "term": "journal-article",
+      "count": 430
+    },
+    {
+      "term": "posted-content",
+      "count": 53
+    },
+    {
+      "term": "proceedings-article",
+      "count": 12
+    },
+    {
+      "term": "book-chapter",
+      "count": 2
+    },
+    {
+      "term": "reference-entry",
+      "count": 1
+    },
+    {
+      "term": "report",
+      "count": 1
+    }
+  ]
+}

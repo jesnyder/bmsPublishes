@@ -37,7 +37,7 @@ def list_pubs():
 
     if 1 in tasks:
 
-        years = [2023]
+        years = []
         terms = []
         terms.append('"Blue+Marble+Space+Institute+of+Science"')
         #terms.append('Multivascular networks and functional intravascular topologies within biocompatible hydrogels')
@@ -51,11 +51,11 @@ def list_pubs():
         build_json_src_list(ref_json)
     """
 
-    """
+
     if 3 in tasks:
-        ref_json = {'years': [2024, 2025], 'name': 'recent'}
+        ref_json = {'years': [2025, 2026], 'name': 'recent'}
         build_json_src_list(ref_json)
-    """
+
 
     if 4 in tasks:
         ref_json = {'years': ['all'], 'name': 'all'}

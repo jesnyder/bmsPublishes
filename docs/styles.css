@@ -1,16 +1,16 @@
 body {
-  background-color: #F05323;
+  background-color: #8ACAFF;   /* logo light blue */
   color: #343741;
   font: 16px Calibri;
   }
 
 
 
-h1   {color: #F05323;
+h1   {color: #008BFF;          /* logo deep blue */
       font: 18px Calibri;
       font-weight: bold;
      }
-h2   {color: #0099D8;
+h2   {color: #3384FF;          /* logo blue */
       font: 18px Calibri;
       font-weight: bold;
       margin-bottom: 0px;
@@ -119,7 +119,7 @@ width: 100%;
 }
 
 .odd {
-background: linear-gradient(#eee 1px, #ddd 1px, #00CCFF calc(100% - 1px), #999 calc(100% - 1px));
+background: linear-gradient(#eee 1px, #ddd 1px, #8ACAFF calc(100% - 1px), #999 calc(100% - 1px));
 }
 
 .even {
@@ -170,7 +170,7 @@ li {
 }
 
 
-a {color: #F05323;}
+a {color: #008BFF;}   /* logo deep blue */
 
 
 .rangeslider{
@@ -247,7 +247,7 @@ a {color: #F05323;}
 
                    .RoosterPurple
                    {
-                       background: #171B60;
+                       background: #008BFF;   /* logo deep blue header bar */
                    }
 
                    .purple
