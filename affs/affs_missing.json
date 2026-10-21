@@ -1,5 +1,5 @@
 {
-  "count": 2232,
+  "count": 2221,
   "affs": [
     {
       "name_original": "Earth, Planetary, and Space Sciences, University of California, Los Angeles, California, USA.",
@@ -12782,38 +12782,14 @@
       "unique_papers": 1
     },
     {
-      "name_original": "Tomball Memorial High School, Tomball, TX 77377, USA",
-      "name_ref": "Tomball Memorial High School, Tomball, TX 77377, USA",
-      "count": 1,
-      "unique_papers": 1
-    },
-    {
       "name_original": "Trivedi Institute for Space and Global Biomedicine, University of Pittsburgh, 450 Technology Drive, Pittsburgh, Pennsylvania 15219, USA",
-      "name_ref": "Trivedi Institute for Space and Global Biomedicine, University of Pittsburgh, 450 Technology Drive, Pittsburgh, Pennsylvania 15219, USA",
-      "count": 1,
-      "unique_papers": 1
-    },
-    {
-      "name_original": "Trivedi Institute for Space and Global Biomedicine, University of Pittsburgh, PA, USA",
-      "name_ref": "Trivedi Institute for Space and Global Biomedicine, University of Pittsburgh, PA, USA",
-      "count": 1,
-      "unique_papers": 1
-    },
-    {
-      "name_original": "U.R. Matériaux et Synthèse Organique UR17ES31, Institut Préparatoire aux Etudes d’Ingénieur de Monastir, Université de Monastir, Monastir 5019, Tunisia",
-      "name_ref": "U.R. Matériaux et Synthèse Organique UR17ES31, Institut Préparatoire aux Etudes d’Ingénieur de Monastir, Université de Monastir, Monastir 5019, Tunisia",
+      "name_ref": "University of Pittsburgh, 450 Technology Drive, Pittsburgh, Pennsylvania 15219, USA",
       "count": 1,
       "unique_papers": 1
     },
     {
       "name_original": "U.S. Geological Survey Astrogeology Science Center, Flagstaff, AZ, USA.",
       "name_ref": "U.S. Geological Survey Astrogeology Science Center, Flagstaff, AZ, USA.",
-      "count": 1,
-      "unique_papers": 1
-    },
-    {
-      "name_original": "UK Centre for Astrobiology, Edinburgh, United Kingdom.",
-      "name_ref": "UK Centre for Astrobiology, Edinburgh, United Kingdom.",
       "count": 1,
       "unique_papers": 1
     },
@@ -12854,24 +12830,6 @@
       "unique_papers": 1
     },
     {
-      "name_original": "USGS Astrogeology Science Center",
-      "name_ref": "USGS Astrogeology Science Center",
-      "count": 1,
-      "unique_papers": 1
-    },
-    {
-      "name_original": "USGS Hawaii Volcano Observatory",
-      "name_ref": "USGS Hawaii Volcano Observatory",
-      "count": 1,
-      "unique_papers": 1
-    },
-    {
-      "name_original": "USRA  Columbia MD USA",
-      "name_ref": "USRA  Columbia MD USA",
-      "count": 1,
-      "unique_papers": 1
-    },
-    {
       "name_original": "USRA at NASA Ames Research Center  Mountain View California USA",
       "name_ref": "USRA at NASA Ames Research Center  Mountain View California USA",
       "count": 1,
@@ -12884,32 +12842,14 @@
       "unique_papers": 1
     },
     {
-      "name_original": "Unidad Asociada Universidad de Valladolid-CSIC-CAB, Boecillo, Spain.",
-      "name_ref": "Unidad Asociada Universidad de Valladolid-CSIC-CAB, Boecillo, Spain.",
-      "count": 1,
-      "unique_papers": 1
-    },
-    {
       "name_original": "Unidad Profesional Interdisciplinaria de Biotecnología – Instituto Politécnico Nacional, 550 Av. Acueducto, 07340 Mexico City, Mexico",
       "name_ref": "Unidad Profesional Interdisciplinaria de Biotecnología – Instituto Politécnico Nacional, 550 Av. Acueducto, 07340 Mexico City, Mexico",
       "count": 1,
       "unique_papers": 1
     },
     {
-      "name_original": "Universidad Nacional de Colombia Facultad de Ciencias",
-      "name_ref": "Universidad Nacional de Colombia Facultad de Ciencias",
-      "count": 1,
-      "unique_papers": 1
-    },
-    {
       "name_original": "Universidad de Costa Rica Escuela de Biología",
       "name_ref": "Universidad de Costa Rica Escuela de Biología",
-      "count": 1,
-      "unique_papers": 1
-    },
-    {
-      "name_original": "Universite Claude Bernard Lyon1, LGL‐TPE, UMR 5276, CNRS, ENSL, UJM  Villeurbanne France",
-      "name_ref": "Universite Claude Bernard Lyon1, LGL‐TPE, UMR 5276, CNRS, ENSL, UJM  Villeurbanne France",
       "count": 1,
       "unique_papers": 1
     },
@@ -12952,12 +12892,6 @@
     {
       "name_original": "Universities Space Research Association, Washington, DC 20024, USA",
       "name_ref": "Universities Space Research Association, Washington, DC 20024, USA",
-      "count": 1,
-      "unique_papers": 1
-    },
-    {
-      "name_original": "University College London/CSED, London, UK.",
-      "name_ref": "University College London/CSED, London, UK.",
       "count": 1,
       "unique_papers": 1
     },

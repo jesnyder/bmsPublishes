@@ -1,5 +1,5 @@
 {
-  "count": 25,
+  "count": 26,
   "terms": [
     {
       "term": "Blue Marble Space",
@@ -30,6 +30,14 @@
       "count": 30
     },
     {
+      "term": "hydrothermal systems",
+      "count": 28
+    },
+    {
+      "term": "life detection",
+      "count": 27
+    },
+    {
       "term": "ancient delta-lake system",
       "count": 22
     },
@@ -40,10 +48,6 @@
     {
       "term": "geochemistry",
       "count": 16
-    },
-    {
-      "term": "hydrothermal systems",
-      "count": 12
     },
     {
       "term": "ames research center",
