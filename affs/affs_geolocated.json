@@ -4678,12 +4678,12 @@
     },
     {
       "name_original": "Department of Food Science & Technology",
-      "name_ref": "Department of Food Science & Technology",
+      "name_ref": "37.2197424,-80.4279542",
       "count": 1,
-      "lat": "36.3054105",
-      "lon": "59.5266973",
-      "display_name": "گروه علوم و صنایع غذایی, بولوار دانش, دانشگاه, ناحیه ۱ منطقه ۹, منطقه ۹, شهر مشهد, بخش مرکزی شهرستان مشهد, شهرستان مشهد, استان خراسان رضوی, 91779-48986, ایران",
-      "osm_type": "college",
+      "lat": "37.2207871",
+      "lon": "-80.4288904",
+      "display_name": "The Cage, Duck Pond Drive, Blacksburg, Montgomery County, Virginia, 24061, United States",
+      "osm_type": "parking",
       "class": "",
       "unique_papers": 1
     },

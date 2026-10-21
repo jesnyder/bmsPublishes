@@ -22,6 +22,10 @@
       "count": 48
     },
     {
+      "term": "life detection",
+      "count": 39
+    },
+    {
       "term": "geology",
       "count": 32
     },
@@ -32,10 +36,6 @@
     {
       "term": "hydrothermal systems",
       "count": 28
-    },
-    {
-      "term": "life detection",
-      "count": 27
     },
     {
       "term": "ancient delta-lake system",
