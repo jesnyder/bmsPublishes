@@ -1,5 +1,5 @@
 {
-  "count": 853,
+  "count": 859,
   "affs": [
     {
       "name_original": "Blue Marble Space Institute of Science",
@@ -7229,6 +7229,17 @@
       "unique_papers": 1
     },
     {
+      "name_original": "Sano Centre for Computational Personalised Medicine",
+      "name_ref": "50.0669446,19.9177867",
+      "count": 1,
+      "lat": "50.0667130",
+      "lon": "19.9185180",
+      "display_name": "H-B3B4, 30, Aleja Adama Mickiewicza, Czarna Wieś, Krowodrza, Kraków, województwo małopolskie, 30-059, Polska",
+      "osm_type": "university",
+      "class": "",
+      "unique_papers": 1
+    },
+    {
       "name_original": "Santa Fe Institute  Santa Fe New Mexico USA",
       "name_ref": "Santa Fe Institute  Santa Fe New Mexico USA",
       "count": 1,
@@ -7241,47 +7252,102 @@
     },
     {
       "name_original": "Santa Fe Institute Santa Fe New Mexico",
-      "name_ref": "Santa Fe Institute Santa Fe New Mexico",
+      "name_ref": "35.725003,-105.9381055",
       "count": 1,
-      "lat": "35.7003268",
-      "lon": "-105.9088156",
-      "display_name": "Santa Fe Institute, Ann Nitze Hiking Trail, Santa Fe, Santa Fe County, New Mexico, 87501, United States",
-      "osm_type": "educational_institution",
+      "lat": "35.7250187",
+      "lon": "-105.9380569",
+      "display_name": "Tano Ridge Road, Tano Ridge, Santa Fe, Santa Fe County, New Mexico, 87501, United States",
+      "osm_type": "residential",
       "class": "",
-      "unique_papers": 1
+      "unique_papers": 4
+    },
+    {
+      "name_original": "Santa Fe Institute, Blue Marble Space Institute of Science",
+      "name_ref": "35.725003,-105.9381055",
+      "count": 1,
+      "lat": "35.7250187",
+      "lon": "-105.9380569",
+      "display_name": "Tano Ridge Road, Tano Ridge, Santa Fe, Santa Fe County, New Mexico, 87501, United States",
+      "osm_type": "residential",
+      "class": "",
+      "unique_papers": 4
     },
     {
       "name_original": "Santa Fe Institute, Santa Fe, NM 87501, USA",
-      "name_ref": "Santa Fe Institute, Santa Fe, NM 87501, USA",
+      "name_ref": "35.725003,-105.9381055",
       "count": 1,
-      "lat": "35.7003268",
-      "lon": "-105.9088156",
-      "display_name": "Santa Fe Institute, Ann Nitze Hiking Trail, Santa Fe, Santa Fe County, New Mexico, 87501, United States",
-      "osm_type": "educational_institution",
+      "lat": "35.7250187",
+      "lon": "-105.9380569",
+      "display_name": "Tano Ridge Road, Tano Ridge, Santa Fe, Santa Fe County, New Mexico, 87501, United States",
+      "osm_type": "residential",
+      "class": "",
+      "unique_papers": 4
+    },
+    {
+      "name_original": "Sante Fe Institute Sante Fe New Mexico",
+      "name_ref": "35.725003,-105.9381055",
+      "count": 1,
+      "lat": "35.7250187",
+      "lon": "-105.9380569",
+      "display_name": "Tano Ridge Road, Tano Ridge, Santa Fe, Santa Fe County, New Mexico, 87501, United States",
+      "osm_type": "residential",
+      "class": "",
+      "unique_papers": 4
+    },
+    {
+      "name_original": "Sardar Vallabhbhai National Institute of Technology, Surat 395007, India",
+      "name_ref": "21.1671192,72.7826288",
+      "count": 1,
+      "lat": "21.1670387",
+      "lon": "72.7822072",
+      "display_name": "SVNIT Guest House, Dumas Road, Majura Taluka, Surat, Gujarat, 394518, India",
+      "osm_type": "guest_house",
       "class": "",
       "unique_papers": 1
     },
     {
-      "name_original": "Sardar Vallabhbhai National Institute of Technology, Surat 395007, India",
-      "name_ref": "Sardar Vallabhbhai National Institute of Technology, Surat 395007, India",
+      "name_original": "Sbarro Institute for Cancer Research and Molecular Medicine, Center for Biotechnology, College of Science and Technology, Temple University, Philadelphia, PA 19122, USA",
+      "name_ref": "Temple University, Philadelphia, PA 19122",
       "count": 1,
-      "lat": "21.1634495",
-      "lon": "72.7861213",
-      "display_name": "Sardar Vallabhbhai National Institute of Technology, Piplod Main Road, Majura Taluka, Surat, Gujarat, 395007, India",
+      "lat": "39.9811880",
+      "lon": "-75.1562828",
+      "display_name": "Temple University, 1801, North Broad Street, North Central, North Philadelphia, Philadelphia, Philadelphia County, Pennsylvania, 19122, United States",
       "osm_type": "university",
       "class": "",
       "unique_papers": 1
     },
     {
       "name_original": "School of Aerospace Engineering",
-      "name_ref": "School of Aerospace Engineering",
+      "name_ref": "33.7722661,-84.3986253",
       "count": 1,
-      "lat": "5.1471172",
-      "lon": "100.4941217",
-      "display_name": "School of Aerospace Engineering, Jalan Ampang Jajar, Taman Pekaka, Kampung Teluk, Seberang Perai Selatan, Seberang Perai, Pulau Pinang, 34200, Malaysia",
-      "osm_type": "university",
+      "lat": "33.7724907",
+      "lon": "-84.3983918",
+      "display_name": "Wells Fargo, PATH Parkway, Atlanta, Fulton County, Georgia, 30332, United States",
+      "osm_type": "bank",
       "class": "",
-      "unique_papers": 1
+      "unique_papers": 3
+    },
+    {
+      "name_original": "School of Aerospace Engineering Georgia Institute of Technology  Atlanta GA USA",
+      "name_ref": "33.7722661,-84.3986253",
+      "count": 1,
+      "lat": "33.7724907",
+      "lon": "-84.3983918",
+      "display_name": "Wells Fargo, PATH Parkway, Atlanta, Fulton County, Georgia, 30332, United States",
+      "osm_type": "bank",
+      "class": "",
+      "unique_papers": 3
+    },
+    {
+      "name_original": "School of Aerospace Engineering, School of Earth and Atmospheric Sciences, Georgia Institute of Technology, Atlanta, GA 30332, USA",
+      "name_ref": "33.7722661,-84.3986253",
+      "count": 1,
+      "lat": "33.7724907",
+      "lon": "-84.3983918",
+      "display_name": "Wells Fargo, PATH Parkway, Atlanta, Fulton County, Georgia, 30332, United States",
+      "osm_type": "bank",
+      "class": "",
+      "unique_papers": 3
     },
     {
       "name_original": "School of Chemistry",

@@ -1,5 +1,5 @@
 {
-  "count": 2213,
+  "count": 2207,
   "affs": [
     {
       "name_original": "Earth, Planetary, and Space Sciences, University of California, Los Angeles, California, USA.",
@@ -11170,42 +11170,6 @@
     {
       "name_original": "Saint Mary's College of CA & The Planetary Science Institute",
       "name_ref": "Saint Mary's College of CA & The Planetary Science Institute",
-      "count": 1,
-      "unique_papers": 1
-    },
-    {
-      "name_original": "Sano Centre for Computational Personalised Medicine",
-      "name_ref": "Sano Centre for Computational Personalised Medicine",
-      "count": 1,
-      "unique_papers": 1
-    },
-    {
-      "name_original": "Santa Fe Institute, Blue Marble Space Institute of Science",
-      "name_ref": "Santa Fe Institute, Blue Marble Space Institute of Science",
-      "count": 1,
-      "unique_papers": 1
-    },
-    {
-      "name_original": "Sante Fe Institute Sante Fe New Mexico",
-      "name_ref": "Sante Fe Institute Sante Fe New Mexico",
-      "count": 1,
-      "unique_papers": 1
-    },
-    {
-      "name_original": "Sbarro Institute for Cancer Research and Molecular Medicine, Center for Biotechnology, College of Science and Technology, Temple University, Philadelphia, PA 19122, USA",
-      "name_ref": "Sbarro Institute for Cancer Research and Molecular Medicine, Center for Biotechnology, College of Science and Technology, Temple University, Philadelphia, PA 19122, USA",
-      "count": 1,
-      "unique_papers": 1
-    },
-    {
-      "name_original": "School of Aerospace Engineering Georgia Institute of Technology  Atlanta GA USA",
-      "name_ref": "School of Aerospace Engineering Georgia Institute of Technology  Atlanta GA USA",
-      "count": 1,
-      "unique_papers": 1
-    },
-    {
-      "name_original": "School of Aerospace Engineering, School of Earth and Atmospheric Sciences, Georgia Institute of Technology, Atlanta, GA 30332, USA",
-      "name_ref": "School of Aerospace Engineering, School of Earth and Atmospheric Sciences, Georgia Institute of Technology, Atlanta, GA 30332, USA",
       "count": 1,
       "unique_papers": 1
     },
