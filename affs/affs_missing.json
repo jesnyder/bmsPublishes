@@ -1,5 +1,5 @@
 {
-  "count": 2221,
+  "count": 2213,
   "affs": [
     {
       "name_original": "Earth, Planetary, and Space Sciences, University of California, Los Angeles, California, USA.",
@@ -8240,30 +8240,6 @@
       "unique_papers": 1
     },
     {
-      "name_original": "Hines Family Foundation",
-      "name_ref": "Hines Family Foundation",
-      "count": 1,
-      "unique_papers": 1
-    },
-    {
-      "name_original": "Honeybee Robotics, Altadena, California, USA.",
-      "name_ref": "Honeybee Robotics, Altadena, California, USA.",
-      "count": 1,
-      "unique_papers": 1
-    },
-    {
-      "name_original": "Howard University, Department of Physics and Astronomy",
-      "name_ref": "Howard University, Department of Physics and Astronomy",
-      "count": 1,
-      "unique_papers": 1
-    },
-    {
-      "name_original": "Hunter College, City University of New York , , , ,",
-      "name_ref": "Hunter College, City University of New York , , , ,",
-      "count": 1,
-      "unique_papers": 1
-    },
-    {
       "name_original": "Hydrogen Boride Research Center, Tsukuba Institute of Advanced Research, University of Tsukuba, 1-1-1 Tennodai, Tsukuba, Ibaraki 305-8573, Japan",
       "name_ref": "Hydrogen Boride Research Center, Tsukuba Institute of Advanced Research, University of Tsukuba, 1-1-1 Tennodai, Tsukuba, Ibaraki 305-8573, Japan",
       "count": 1,
@@ -8278,30 +8254,6 @@
     {
       "name_original": "IFP Energies Nouvelles, Paris, France.",
       "name_ref": "IFP Energies Nouvelles, Paris, France.",
-      "count": 1,
-      "unique_papers": 1
-    },
-    {
-      "name_original": "IGEO (CSIC-UCM), Madrid, Spain",
-      "name_ref": "IGEO (CSIC-UCM), Madrid, Spain",
-      "count": 1,
-      "unique_papers": 1
-    },
-    {
-      "name_original": "IMCCE Observatoire de Paris, Université Lille 1, UPMC Paris France",
-      "name_ref": "IMCCE Observatoire de Paris, Université Lille 1, UPMC Paris France",
-      "count": 1,
-      "unique_papers": 1
-    },
-    {
-      "name_original": "IMPMC  Paris France",
-      "name_ref": "IMPMC  Paris France",
-      "count": 1,
-      "unique_papers": 1
-    },
-    {
-      "name_original": "INAF‐Astrophysical Observatory of Arcetri  Firenze Italy",
-      "name_ref": "INAF‐Astrophysical Observatory of Arcetri  Firenze Italy",
       "count": 1,
       "unique_papers": 1
     },

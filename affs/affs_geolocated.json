@@ -1,5 +1,5 @@
 {
-  "count": 845,
+  "count": 853,
   "affs": [
     {
       "name_original": "Blue Marble Space Institute of Science",
@@ -5206,58 +5206,91 @@
     },
     {
       "name_original": "Hellenic Space Center",
-      "name_ref": "Hellenic Space Center",
+      "name_ref": "38.0103912,23.7787018",
       "count": 1,
-      "lat": "38.0105012",
-      "lon": "23.7811040",
-      "display_name": "Ελληνικό Κέντρο Διαστήματος, 178, Κηφισίας, Χαλάνδρι, Δήμος Χαλανδρίου, Περιφερειακή Ενότητα Βορείου Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 154 51, Ελλάς",
-      "osm_type": "government",
+      "lat": "38.0101234",
+      "lon": "23.7788797",
+      "display_name": "Κωστή Παλαμά, Ψυχικό, Κοινότητα Ψυχικού, Δημοτική Ενότητα Ψυχικού, Δήμος Φιλοθέης - Ψυχικού, Περιφερειακή Ενότητα Βορείου Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 154 51, Ελλάς",
+      "osm_type": "residential",
+      "class": "",
+      "unique_papers": 2
+    },
+    {
+      "name_original": "Hellenic Space Center  Athens Greece",
+      "name_ref": "38.0103912,23.7787018",
+      "count": 1,
+      "lat": "38.0101234",
+      "lon": "23.7788797",
+      "display_name": "Κωστή Παλαμά, Ψυχικό, Κοινότητα Ψυχικού, Δημοτική Ενότητα Ψυχικού, Δήμος Φιλοθέης - Ψυχικού, Περιφερειακή Ενότητα Βορείου Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 154 51, Ελλάς",
+      "osm_type": "residential",
+      "class": "",
+      "unique_papers": 2
+    },
+    {
+      "name_original": "Hines Family Foundation",
+      "name_ref": "33.6155664,-84.4472954",
+      "count": 1,
+      "lat": "33.6163906",
+      "lon": "-84.4472268",
+      "display_name": "Walker Creek Road, College Park, Clayton County, Georgia, 30320, United States",
+      "osm_type": "residential",
       "class": "",
       "unique_papers": 1
     },
     {
-      "name_original": "Hellenic Space Center  Athens Greece",
-      "name_ref": "Hellenic Space Center  Athens Greece",
+      "name_original": "Honeybee Robotics, Altadena, California, USA.",
+      "name_ref": "34.1871222,-118.1619278",
       "count": 1,
-      "lat": "38.0105012",
-      "lon": "23.7811040",
-      "display_name": "Ελληνικό Κέντρο Διαστήματος, 178, Κηφισίας, Χαλάνδρι, Δήμος Χαλανδρίου, Περιφερειακή Ενότητα Βορείου Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 154 51, Ελλάς",
-      "osm_type": "government",
+      "lat": "34.1876180",
+      "lon": "-118.1619060",
+      "display_name": "2400, North Canyada Avenue, Altadena, Los Angeles County, California, 91001, United States",
+      "osm_type": "house",
       "class": "",
       "unique_papers": 1
     },
     {
       "name_original": "Howard University",
-      "name_ref": "Howard University",
+      "name_ref": "38.9226843,-77.0220126",
       "count": 1,
-      "lat": "38.9221121",
-      "lon": "-77.0196303",
-      "display_name": "Howard University, 2400, 6th Street Northwest, Ward 1, Washington, District of Columbia, 20059, United States",
-      "osm_type": "university",
+      "lat": "38.9229235",
+      "lon": "-77.0220633",
+      "display_name": "Georgia Avenue Northwest, Pleasant Plains, Ward 1, Washington, District of Columbia, 20059, United States",
+      "osm_type": "parking",
       "class": "",
-      "unique_papers": 1
+      "unique_papers": 4
     },
     {
       "name_original": "Howard University, DC, USA.",
-      "name_ref": "Howard University, DC, USA.",
+      "name_ref": "38.9226843,-77.0220126",
       "count": 1,
-      "lat": "38.9221121",
-      "lon": "-77.0196303",
-      "display_name": "Howard University, 2400, 6th Street Northwest, Ward 1, Washington, District of Columbia, 20059, United States",
-      "osm_type": "university",
+      "lat": "38.9229235",
+      "lon": "-77.0220633",
+      "display_name": "Georgia Avenue Northwest, Pleasant Plains, Ward 1, Washington, District of Columbia, 20059, United States",
+      "osm_type": "parking",
       "class": "",
-      "unique_papers": 1
+      "unique_papers": 4
+    },
+    {
+      "name_original": "Howard University, Department of Physics and Astronomy",
+      "name_ref": "38.9226843,-77.0220126",
+      "count": 1,
+      "lat": "38.9229235",
+      "lon": "-77.0220633",
+      "display_name": "Georgia Avenue Northwest, Pleasant Plains, Ward 1, Washington, District of Columbia, 20059, United States",
+      "osm_type": "parking",
+      "class": "",
+      "unique_papers": 4
     },
     {
       "name_original": "Howard University, Washington, District of Columbia 20059, United States",
-      "name_ref": "Howard University, Washington, District of Columbia 20059, United States",
+      "name_ref": "38.9226843,-77.0220126",
       "count": 1,
-      "lat": "38.9221121",
-      "lon": "-77.0196303",
-      "display_name": "Howard University, 2400, 6th Street Northwest, Ward 1, Washington, District of Columbia, 20059, United States",
-      "osm_type": "university",
+      "lat": "38.9229235",
+      "lon": "-77.0220633",
+      "display_name": "Georgia Avenue Northwest, Pleasant Plains, Ward 1, Washington, District of Columbia, 20059, United States",
+      "osm_type": "parking",
       "class": "",
-      "unique_papers": 1
+      "unique_papers": 4
     },
     {
       "name_original": "Howard University/NASA Goddard Space Flight Center",
@@ -5271,6 +5304,17 @@
       "unique_papers": 43
     },
     {
+      "name_original": "Hunter College, City University of New York , , , ,",
+      "name_ref": "40.7678398,-73.967104",
+      "count": 1,
+      "lat": "40.7677456",
+      "lon": "-73.9672207",
+      "display_name": "59, East 66th Street, Upper East Side, Manhattan Community Board 8, Manhattan, New York County, New York, 10065, United States",
+      "osm_type": "yes",
+      "class": "",
+      "unique_papers": 1
+    },
+    {
       "name_original": "IBM Research—Zurich Rüschlikon 8003 Switzerland",
       "name_ref": "IBM Research—Zurich Rüschlikon 8003 Switzerland",
       "count": 1,
@@ -5278,6 +5322,50 @@
       "lon": "8.5447434",
       "display_name": "IBM Research Europe, Zurich, 4, Säumerstrasse, Rüschlikon, Bezirk Horgen, Zürich, 8803, Schweiz/Suisse/Svizzera/Svizra",
       "osm_type": "research_institute",
+      "class": "",
+      "unique_papers": 1
+    },
+    {
+      "name_original": "IGEO (CSIC-UCM), Madrid, Spain",
+      "name_ref": "Madrid, Spain",
+      "count": 1,
+      "lat": "40.4167820",
+      "lon": "-3.7035070",
+      "display_name": "Madrid, Comunidad de Madrid, España",
+      "osm_type": "administrative",
+      "class": "",
+      "unique_papers": 1
+    },
+    {
+      "name_original": "IMCCE Observatoire de Paris, Université Lille 1, UPMC Paris France",
+      "name_ref": "Paris France",
+      "count": 1,
+      "lat": "48.8534951",
+      "lon": "2.3483915",
+      "display_name": "Paris, Île-de-France, France métropolitaine, France",
+      "osm_type": "administrative",
+      "class": "",
+      "unique_papers": 2
+    },
+    {
+      "name_original": "IMPMC  Paris France",
+      "name_ref": "Paris France",
+      "count": 1,
+      "lat": "48.8534951",
+      "lon": "2.3483915",
+      "display_name": "Paris, Île-de-France, France métropolitaine, France",
+      "osm_type": "administrative",
+      "class": "",
+      "unique_papers": 2
+    },
+    {
+      "name_original": "INAF‐Astrophysical Observatory of Arcetri  Firenze Italy",
+      "name_ref": "43.7502466,11.2513267",
+      "count": 1,
+      "lat": "43.7499819",
+      "lon": "11.2512487",
+      "display_name": "2, Via Guglielmo Righini, Pian dei Giullari, Quartiere 3, Cascine del Riccio, Firenze, Toscana, 50125, Italia",
+      "osm_type": "house",
       "class": "",
       "unique_papers": 1
     },
